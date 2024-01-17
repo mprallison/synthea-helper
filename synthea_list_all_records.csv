@@ -1,0 +1,1493 @@
+CLASS,DESCRIPTION,CODE,SYSTEM
+allergy,Allergy to substance (finding),419199007,SNOMED-CT
+allergy,Aspirin,1191,RXNORM
+allergy,Fish (substance),735971005,SNOMED-CT
+allergy,Latex (substance),111088007,SNOMED-CT
+allergy,Bee venom (substance),288328004,SNOMED-CT
+allergy,Mold (organism),84489001,SNOMED-CT
+allergy,House dust mite (organism),260147004,SNOMED-CT
+allergy,Animal dander (substance),264287008,SNOMED-CT
+allergy,Grass pollen (substance),256277009,SNOMED-CT
+allergy,Soy bean,256355007,SNOMED-CT
+allergy,Tree nut (substance),442571000124108,SNOMED-CT
+allergy,Tree pollen (substance),782576004,SNOMED-CT
+allergy,Cow's milk (substance),3718001,SNOMED-CT
+allergy,Eggs (edible) (substance),102263004,SNOMED-CT
+allergy,Shellfish (substance),735029006,SNOMED-CT
+allergy,Sulfamethoxazole / Trimethoprim,10831,RXNORM
+allergy,Wheat (substance),412071004,SNOMED-CT
+allergy,Peanut (substance),762952008,SNOMED-CT
+allergy,Penicillin V,7984,RXNORM
+allergy,Lisinopril,29046,RXNORM
+allergy,cefdinir,25037,RXNORM
+allergy,Ibuprofen,5640,RXNORM
+careplan,Physiotherapy care plan (record artifact),773513001,SNOMED-CT
+careplan,Fracture care,385691007,SNOMED-CT
+careplan,Routine antenatal care,134435003,SNOMED-CT
+careplan,Burn care,133901003,SNOMED-CT
+careplan,Diabetes self management plan,698360004,SNOMED-CT
+careplan,Respiratory therapy,53950000,SNOMED-CT
+careplan,Lifestyle education regarding hypertension,443402002,SNOMED-CT
+careplan,Wound care,225358003,SNOMED-CT
+careplan,Asthma self management,699728000,SNOMED-CT
+careplan,Head injury rehabilitation,47387005,SNOMED-CT
+careplan,Infectious disease care plan (record artifact),736376001,SNOMED-CT
+careplan,Self-care interventions (procedure),384758001,SNOMED-CT
+careplan,Hyperlipidemia clinical management plan,736285004,SNOMED-CT
+careplan,Care plan (record artifact),734163000,SNOMED-CT
+careplan,Therapy (regime/therapy),276239002,SNOMED-CT
+careplan,Cancer care plan,395082007,SNOMED-CT
+careplan,Major surgery care management (procedure),737567002,SNOMED-CT
+careplan,Skin condition care,711282006,SNOMED-CT
+careplan,Weight management program,718361005,SNOMED-CT
+careplan,Musculoskeletal care,408869004,SNOMED-CT
+careplan,Minor surgery care management (procedure),737471002,SNOMED-CT
+careplan,Urology care plan (record artifact),773593000,SNOMED-CT
+careplan,Overactivity/inattention behavior management,386522008,SNOMED-CT
+careplan,Dialysis care plan (record artifact),736690008,SNOMED-CT
+careplan,Allergic disorder monitoring,170836005,SNOMED-CT
+careplan,Discharge care plan (record artifact),736372004,SNOMED-CT
+careplan,Heart failure self management plan,735984001,SNOMED-CT
+careplan,Inpatient care plan (record artifact),736353004,SNOMED-CT
+careplan,Dementia management,386257007,SNOMED-CT
+careplan,Terminal care,182964004,SNOMED-CT
+careplan,Care Plan,734163000,SNOMED-CT
+careplan,Chronic obstructive pulmonary disease clinical management plan,412776001,SNOMED-CT
+careplan,Surgical inpatient care plan (record artifact),735321000,SNOMED-CT
+careplan,Mental health care plan,718347000,SNOMED-CT
+careplan,Psychiatry care plan,736254008,SNOMED-CT
+careplan,Major depressive disorder clinical management plan,737434004,SNOMED-CT
+careplan,Medical care (regime/therapy),781087000,SNOMED-CT
+careplan,Spinal cord injury rehabilitation,75162002,SNOMED-CT
+careplan,Mental health care plan (record artifact),718347000,SNOMED-CT
+careplan,Constipation Care (regime/therapy),389082000,SNOMED-CT
+careplan,Agreeing on diabetes care plan,703040004,SNOMED-CT
+careplan,Anti-suicide psychotherapy,183401008,SNOMED-CT
+condition,Medication review due (situation),314529007,SNOMED-CT
+condition,Sprain (morphologic abnormality),384709000,SNOMED-CT
+condition,Sprain of ankle,44465007,SNOMED-CT
+condition,Risk activity involvement (finding),160968000,SNOMED-CT
+condition,Fracture of bone (disorder),125605004,SNOMED-CT
+condition,Fracture subluxation of wrist,263102004,SNOMED-CT
+condition,Housing unsatisfactory (finding),105531004,SNOMED-CT
+condition,Received higher education (finding),224299000,SNOMED-CT
+condition,Part-time employment (finding),160904001,SNOMED-CT
+condition,Social isolation (finding),422650009,SNOMED-CT
+condition,Stress (finding),73595000,SNOMED-CT
+condition,Reports of violence in the environment (finding),424393004,SNOMED-CT
+condition,Viral sinusitis (disorder),444814009,SNOMED-CT
+condition,Full-time employment (finding),160903007,SNOMED-CT
+condition,Normal pregnancy,72892002,SNOMED-CT
+condition,Burn injury (morphologic abnormality),48333001,SNOMED-CT
+condition,Second degree burn,403191005,SNOMED-CT
+condition,Patient transfer to skilled nursing facility (procedure),25675004,SNOMED-CT
+condition,Body mass index 30+ - obesity (finding),162864005,SNOMED-CT
+condition,Received certificate of high school equivalency (finding),5251000175109,SNOMED-CT
+condition,Prediabetes,15777000,SNOMED-CT
+condition,Anemia (disorder),271737000,SNOMED-CT
+condition,Limited social contact (finding),423315002,SNOMED-CT
+condition,Not in labor force (finding),741062008,SNOMED-CT
+condition,Miscarriage in first trimester,19169002,SNOMED-CT
+condition,Victim of intimate partner abuse (finding),706893006,SNOMED-CT
+condition,Essential hypertension (disorder),59621000,SNOMED-CT
+condition,Diabetes mellitus type 2 (disorder),44054006,SNOMED-CT
+condition,Laceration - injury (disorder),312608009,SNOMED-CT
+condition,Laceration of thigh,283385000,SNOMED-CT
+condition,Hypertriglyceridemia (disorder),302870006,SNOMED-CT
+condition,Metabolic syndrome X (disorder),237602007,SNOMED-CT
+condition,Acute bacterial sinusitis (disorder),75498004,SNOMED-CT
+condition,Chronic sinusitis (disorder),40055000,SNOMED-CT
+condition,Blighted ovum,35999006,SNOMED-CT
+condition,Acute viral pharyngitis (disorder),195662009,SNOMED-CT
+condition,Malignant neoplasm of breast (disorder),254837009,SNOMED-CT
+condition,Childhood asthma,233678006,SNOMED-CT
+condition,Concussion injury of brain (disorder),110030002,SNOMED-CT
+condition,Concussion with no loss of consciousness,62106007,SNOMED-CT
+condition,Acute bronchitis (disorder),10509002,SNOMED-CT
+condition,Suspected COVID-19,840544004,SNOMED-CT
+condition,Cough (finding),49727002,SNOMED-CT
+condition,Fever (finding),386661006,SNOMED-CT
+condition,Loss of taste (finding),36955009,SNOMED-CT
+condition,COVID-19,840539006,SNOMED-CT
+condition,Streptococcal sore throat (disorder),43878008,SNOMED-CT
+condition,Ischemic heart disease (disorder),414545008,SNOMED-CT
+condition,Abnormal findings diagnostic imaging heart+coronary circulat (finding),274531002,SNOMED-CT
+condition,History of coronary artery bypass grafting (situation),399261000,SNOMED-CT
+condition,Fatigue (finding),84229001,SNOMED-CT
+condition,Only received primary school education (finding),224295006,SNOMED-CT
+condition,Transport problem (finding),266934004,SNOMED-CT
+condition,Lack of access to transportation (finding),713458007,SNOMED-CT
+condition,History of tubal ligation (situation),267020005,SNOMED-CT
+condition,Polyp of colon,68496003,SNOMED-CT
+condition,Hyperlipidemia,55822004,SNOMED-CT
+condition,Appendicitis,74400008,SNOMED-CT
+condition,History of appendectomy,428251008,SNOMED-CT
+condition,Sleep disorder (disorder),39898005,SNOMED-CT
+condition,Sleep apnea (disorder),73430006,SNOMED-CT
+condition,Drug overdose,55680006,SNOMED-CT
+condition,Dependent drug abuse (disorder),6525002,SNOMED-CT
+condition,Seizure disorder,128613002,SNOMED-CT
+condition,History of single seizure (situation),703151001,SNOMED-CT
+condition,Epilepsy,84757009,SNOMED-CT
+condition,Unemployed (finding),73438004,SNOMED-CT
+condition,Dyspnea (finding),267036007,SNOMED-CT
+condition,Wheezing (finding),56018004,SNOMED-CT
+condition,Neuropathy due to type 2 diabetes mellitus (disorder),368581000119106,SNOMED-CT
+condition,Has a criminal record (finding),266948004,SNOMED-CT
+condition,Unhealthy alcohol drinking behavior (finding),10939881000119105,SNOMED-CT
+condition,Chronic pain (finding),82423001,SNOMED-CT
+condition,Chronic low back pain (finding),278860009,SNOMED-CT
+condition,Chronic neck pain (finding),1121000119107,SNOMED-CT
+condition,Recurrent rectal polyp,713197008,SNOMED-CT
+condition,Overlapping malignant neoplasm of colon,109838007,SNOMED-CT
+condition,Sprain of wrist,70704007,SNOMED-CT
+condition,Rupture of appendix,47693006,SNOMED-CT
+condition,Contact dermatitis,40275004,SNOMED-CT
+condition,Otitis media,65363002,SNOMED-CT
+condition,Fracture of forearm,65966004,SNOMED-CT
+condition,Sinusitis (disorder),36971009,SNOMED-CT
+condition,Chronic pain,82423001,SNOMED-CT
+condition,Impacted molars,196416002,SNOMED-CT
+condition,Localized  primary osteoarthritis of the hand,201834006,SNOMED-CT
+condition,Epidermal burn of skin (disorder),403190006,SNOMED-CT
+condition,Misuses drugs (finding),361055000,SNOMED-CT
+condition,Chronic kidney disease stage 1 (disorder),431855005,SNOMED-CT
+condition,Disorder of kidney due to diabetes mellitus (disorder),127013003,SNOMED-CT
+condition,Severe anxiety (panic) (finding),80583007,SNOMED-CT
+condition,Sterilization requested (situation),183996000,SNOMED-CT
+condition,Cystitis,38822007,SNOMED-CT
+condition,Obstructive sleep apnea syndrome (disorder),78275009,SNOMED-CT
+condition,Chronic kidney disease stage 2 (disorder),431856006,SNOMED-CT
+condition,Microalbuminuria due to type 2 diabetes mellitus (disorder),90781000119102,SNOMED-CT
+condition,Escherichia coli urinary tract infection,301011002,SNOMED-CT
+condition,Body mass index 40+ - severely obese (finding),408512008,SNOMED-CT
+condition,Chronic kidney disease stage 3 (disorder),433144002,SNOMED-CT
+condition,Proteinuria due to type 2 diabetes mellitus (disorder),157141000119108,SNOMED-CT
+condition,Child attention deficit disorder,192127007,SNOMED-CT
+condition,Chronic kidney disease stage 4 (disorder),431857002,SNOMED-CT
+condition,Awaiting transplantation of kidney (situation),698306007,SNOMED-CT
+condition,Complete miscarriage (disorder),156073000,SNOMED-CT
+condition,Preeclampsia,398254007,SNOMED-CT
+condition,End-stage renal disease (disorder),46177005,SNOMED-CT
+condition,History of renal transplant (situation),161665007,SNOMED-CT
+condition,Rheumatoid arthritis,69896004,SNOMED-CT
+condition,Hyperglycemia (disorder),80394007,SNOMED-CT
+condition,Retinopathy due to type 2 diabetes mellitus (disorder),422034002,SNOMED-CT
+condition,Fracture of clavicle,58150001,SNOMED-CT
+condition,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),1551000119108,SNOMED-CT
+condition,Injury of neck (disorder),90460009,SNOMED-CT
+condition,Whiplash injury to neck,39848009,SNOMED-CT
+condition,Sepsis (disorder),91302008,SNOMED-CT
+condition,Refugee (person),446654005,SNOMED-CT
+condition,Bleeding from anus,6072007,SNOMED-CT
+condition,Protracted diarrhea,236077008,SNOMED-CT
+condition,Secondary malignant neoplasm of colon,94260004,SNOMED-CT
+condition,Injury of knee (disorder),125601008,SNOMED-CT
+condition,Rupture of patellar tendon,30832001,SNOMED-CT
+condition,Laceration of forearm,283371005,SNOMED-CT
+condition,Osteoarthritis of hip,239872002,SNOMED-CT
+condition,Muscle pain (finding),68962001,SNOMED-CT
+condition,Joint pain (finding),57676002,SNOMED-CT
+condition,Fracture of ankle,16114001,SNOMED-CT
+condition,Atopic dermatitis,24079001,SNOMED-CT
+condition,Chronic intractable migraine without aura,124171000119105,SNOMED-CT
+condition,Chill (finding),43724002,SNOMED-CT
+condition,Pneumonia (disorder),233604007,SNOMED-CT
+condition,Hypoxemia (disorder),389087006,SNOMED-CT
+condition,Respiratory distress (finding),271825005,SNOMED-CT
+condition,Sepsis caused by virus (disorder),770349000,SNOMED-CT
+condition,Acute deep venous thrombosis (disorder),132281000119108,SNOMED-CT
+condition,Antepartum eclampsia,198992004,SNOMED-CT
+condition,Headache (finding),25064002,SNOMED-CT
+condition,Fibromyalgia (disorder),203082005,SNOMED-CT
+condition,Seasonal allergic rhinitis,367498001,SNOMED-CT
+condition,Laceration of hand,284549007,SNOMED-CT
+condition,Acute pulmonary embolism (disorder),706870000,SNOMED-CT
+condition,Brain damage - traumatic,275272006,SNOMED-CT
+condition,Stroke,230690007,SNOMED-CT
+condition,Acute non-ST segment elevation myocardial infarction (disorder),401314000,SNOMED-CT
+condition,History of myocardial infarction (situation),399211009,SNOMED-CT
+condition,Idiopathic atrophic hypothyroidism,83664006,SNOMED-CT
+condition,Mitral valve regurgitation (disorder),48724000,SNOMED-CT
+condition,Transition from acute care to home-health care (finding),1871000124103,SNOMED-CT
+condition,Transformed migraine (disorder),427419006,SNOMED-CT
+condition,Osteoporosis (disorder),64859006,SNOMED-CT
+condition,Chronic congestive heart failure (disorder),88805009,SNOMED-CT
+condition,Septic shock (disorder),76571007,SNOMED-CT
+condition,Shock (disorder),27942005,SNOMED-CT
+condition,Injury of tendon of the rotator cuff of shoulder,307731004,SNOMED-CT
+condition,Familial Alzheimer's disease of early onset (disorder),230265002,SNOMED-CT
+condition,Served in armed forces (finding),224355006,SNOMED-CT
+condition,Suspected lung cancer (situation),162573006,SNOMED-CT
+condition,Non-small cell lung cancer (disorder),254637007,SNOMED-CT
+condition,Non-small cell carcinoma of lung  TNM stage 1 (disorder),424132000,SNOMED-CT
+condition,Malignant tumor of colon,363406005,SNOMED-CT
+condition,Facial laceration,370247008,SNOMED-CT
+condition,Laceration of foot,284551006,SNOMED-CT
+condition,Smokes tobacco daily,449868002,SNOMED-CT
+condition,Closed fracture of hip,359817006,SNOMED-CT
+condition,Suspected prostate cancer (situation),315268008,SNOMED-CT
+condition,Neoplasm of prostate,126906006,SNOMED-CT
+condition,Carcinoma in situ of prostate (disorder),92691004,SNOMED-CT
+condition,Alzheimer's disease (disorder),26929004,SNOMED-CT
+condition,Died in hospice (finding),876882001,SNOMED-CT
+condition,Acute ST segment elevation myocardial infarction (disorder),401303003,SNOMED-CT
+condition,Concussion with loss of consciousness,62564004,SNOMED-CT
+condition,Perennial allergic rhinitis,446096008,SNOMED-CT
+condition,Osteoarthritis of knee,239873007,SNOMED-CT
+condition,Injury of medial collateral ligament of knee,444448004,SNOMED-CT
+condition,Sputum finding (finding),248595008,SNOMED-CT
+condition,Homeless (finding),32911000,SNOMED-CT
+condition,Recurrent urinary tract infection,197927001,SNOMED-CT
+condition,Cerebral palsy (disorder),128188000,SNOMED-CT
+condition,Pain (finding),22253000,SNOMED-CT
+condition,Spasticity (finding),221360009,SNOMED-CT
+condition,Epilepsy (disorder),84757009,SNOMED-CT
+condition,Gastroesophageal reflux disease (disorder),235595009,SNOMED-CT
+condition,Dislocation of hip joint (disorder),157265008,SNOMED-CT
+condition,Excessive salivation (disorder),53827007,SNOMED-CT
+condition,Dribbling from mouth (finding),62718007,SNOMED-CT
+condition,Atrial fibrillation (disorder),49436004,SNOMED-CT
+condition,Sore throat symptom (finding),267102003,SNOMED-CT
+condition,Acute respiratory failure (disorder),65710008,SNOMED-CT
+condition,Gunshot wound (disorder),283545005,SNOMED-CT
+condition,Bullet wound,262574004,SNOMED-CT
+condition,Aortic valve regurgitation (disorder),60234000,SNOMED-CT
+condition,History of aortic valve replacement (situation),1231000119100,SNOMED-CT
+condition,Diarrhea symptom (finding),267060006,SNOMED-CT
+condition,Traumatic injury of spinal cord and/or vertebral column (disorder),262521009,SNOMED-CT
+condition,Fracture of the vertebral column with spinal cord injury,1734006,SNOMED-CT
+condition,Gout,90560007,SNOMED-CT
+condition,Opioid abuse (disorder),5602001,SNOMED-CT
+condition,Alcoholism,7200002,SNOMED-CT
+condition,Myocardial infarction (disorder),22298006,SNOMED-CT
+condition,Injury of anterior cruciate ligament,444470001,SNOMED-CT
+condition,Nausea (finding),422587007,SNOMED-CT
+condition,Vomiting symptom (finding),249497008,SNOMED-CT
+condition,Pulmonic valve stenosis (disorder),56786000,SNOMED-CT
+condition,Chronic obstructive bronchitis (disorder),185086009,SNOMED-CT
+condition,Primary fibromyalgia syndrome,95417003,SNOMED-CT
+condition,Nasal congestion (finding),68235000,SNOMED-CT
+condition,Injury of kidney (disorder),40095003,SNOMED-CT
+condition,Injury of heart (disorder),86175003,SNOMED-CT
+condition,Acute respiratory distress syndrome (disorder),67782005,SNOMED-CT
+condition,Infectious mediastinitis (disorder),312157006,SNOMED-CT
+condition,Hemoptysis (finding),66857006,SNOMED-CT
+condition,Perennial allergic rhinitis with seasonal variation,232353008,SNOMED-CT
+condition,Acquired coagulation disorder (disorder),234466008,SNOMED-CT
+condition,Bacterial infectious disease (disorder),87628006,SNOMED-CT
+condition,Pulmonary emphysema (disorder),87433001,SNOMED-CT
+condition,Major depression disorder,370143000,SNOMED-CT
+condition,Fracture of rib,33737001,SNOMED-CT
+condition,Major depression  single episode,36923009,SNOMED-CT
+condition,Fracture of vertebral column without spinal cord injury,15724005,SNOMED-CT
+condition,Small cell carcinoma of lung (disorder),254632001,SNOMED-CT
+condition,Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder),67811000119102,SNOMED-CT
+condition,Aortic valve stenosis (disorder),60573004,SNOMED-CT
+condition,Asthma,195967001,SNOMED-CT
+condition,Tear of meniscus of knee,239720000,SNOMED-CT
+condition,Pathological fracture due to osteoporosis (disorder),443165006,SNOMED-CT
+condition,Macular edema and retinopathy due to type 2 diabetes mellitus (disorder),97331000119101,SNOMED-CT
+condition,Pneumonia,233604007,SNOMED-CT
+condition,Tubal pregnancy,79586000,SNOMED-CT
+condition,Primary malignant neoplasm of colon,93761005,SNOMED-CT
+condition,Acute allergic reaction,241929008,SNOMED-CT
+condition,Preinfarction syndrome (disorder),4557003,SNOMED-CT
+condition,Meningomyelocele (disorder),414667000,SNOMED-CT
+condition,Chiari malformation type II (disorder),373587001,SNOMED-CT
+condition,Congenital deformity of foot (disorder),302297009,SNOMED-CT
+condition,Hydrocephalus (disorder),230745008,SNOMED-CT
+condition,Allergy to latex (finding),300916003,SNOMED-CT
+condition,Urinary tract infectious disease (disorder),68566005,SNOMED-CT
+condition,Pressure ulcer (disorder),399912005,SNOMED-CT
+condition,Metastasis from malignant tumor of prostate (disorder),314994000,SNOMED-CT
+condition,Tricuspid valve regurgitation (disorder),111287006,SNOMED-CT
+condition,Posttraumatic stress disorder,47505003,SNOMED-CT
+condition,Acute Cholecystitis,65275009,SNOMED-CT
+condition,Cholelithiasis,235919008,SNOMED-CT
+condition,Intellectual disability (disorder),110359009,SNOMED-CT
+condition,Acute myeloid leukemia  disease (disorder),91861009,SNOMED-CT
+condition,Febrile neutropenia (disorder),409089005,SNOMED-CT
+condition,Bacteremia (finding),5758002,SNOMED-CT
+condition,Chronic paralysis due to lesion of spinal cord,698754002,SNOMED-CT
+condition,Acquired immune deficiency syndrome (disorder),62479008,SNOMED-CT
+condition,Kidney transplant failure and rejection (disorder),213150003,SNOMED-CT
+condition,Renal dysplasia (disorder),204949001,SNOMED-CT
+condition,Unable to swallow saliva (finding),288959006,SNOMED-CT
+condition,Constipation (finding),14760008,SNOMED-CT
+condition,Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder),1501000119109,SNOMED-CT
+condition,Human immunodeficiency virus infection (disorder),86406008,SNOMED-CT
+condition,Heart failure (disorder),84114007,SNOMED-CT
+condition,Female Infertility,707577004,SNOMED-CT
+condition,Cystic Fibrosis,190905008,SNOMED-CT
+condition,Infection caused by Staphylococcus aureus,406602003,SNOMED-CT
+condition,Diabetes from Cystic Fibrosis,427089005,SNOMED-CT
+condition,Sepsis caused by Staphylococcus aureus,448417001,SNOMED-CT
+condition,Infection caused by Pseudomonas aeruginosa,11218009,SNOMED-CT
+condition,Sepsis caused by Pseudomonas (disorder),448813005,SNOMED-CT
+condition,History of lower limb amputation (situation),161622006,SNOMED-CT
+condition,Pulmonic valve regurgitation (disorder),91434003,SNOMED-CT
+condition,Acute respiratory insufficiency (disorder),111282000,SNOMED-CT
+condition,Third degree burn,403192003,SNOMED-CT
+condition,Pyelonephritis,45816000,SNOMED-CT
+condition,Traumatic brain injury (disorder),127295002,SNOMED-CT
+condition,History of artificial joint (situation),161679004,SNOMED-CT
+condition,Mitral valve stenosis (disorder),79619009,SNOMED-CT
+condition,Scoliosis deformity of spine (disorder),298382003,SNOMED-CT
+condition,Toxoplasma gondii antibody positive (finding),428915008,SNOMED-CT
+condition,Lupus erythematosus,200936003,SNOMED-CT
+condition,Poor muscle tone (finding),398152000,SNOMED-CT
+condition,Chronic type B viral hepatitis (disorder),61977001,SNOMED-CT
+condition,Dystonia (disorder),15802004,SNOMED-CT
+condition,Chronic hepatitis C (disorder),128302006,SNOMED-CT
+condition,Retention of urine (disorder),267064002,SNOMED-CT
+condition,Attempted suicide - cut/stab,287185009,SNOMED-CT
+condition,History of aortic valve repair (situation),119481000119105,SNOMED-CT
+condition,Passive conjunctival congestion (finding),246677007,SNOMED-CT
+condition,Anticoagulant-induced bleeding (disorder),278365007,SNOMED-CT
+condition,History of upper limb amputation (situation),161621004,SNOMED-CT
+condition,Acute cerebrovascular accident (disorder),457551000124104,SNOMED-CT
+condition,Meconium Ileus,206523001,SNOMED-CT
+condition,Blindness due to type 2 diabetes mellitus (disorder),60951000119105,SNOMED-CT
+condition,Social migrant (finding),160701002,SNOMED-CT
+condition,Non-low risk pregnancy,47200007,SNOMED-CT
+condition,Meningocele (disorder),171131006,SNOMED-CT
+condition,History of amputation of foot (situation),429280009,SNOMED-CT
+condition,Tricuspid valve stenosis (disorder),49915006,SNOMED-CT
+device,Manual wheelchair (physical object),228869008,SNOMED-CT
+device,Blood glucose meter (physical object),337414009,SNOMED-CT
+device,Home nebulizer (physical object),170615005,SNOMED-CT
+device,Home continuous positive airway pressure unit (physical object),702172008,SNOMED-CT
+device,Respiratory humidifier (physical object),706180003,SNOMED-CT
+device,Respiratory apnea monitoring system (physical object),701077002,SNOMED-CT
+device,Polysomnography analyzer (physical object),701100002,SNOMED-CT
+device,Appliance for sleep apnea (physical object),272265001,SNOMED-CT
+device,Wheelchair accessory (physical object),705417005,SNOMED-CT
+device,Hospital bed  device (physical object),91537007,SNOMED-CT
+device,Commode (physical object),360008003,SNOMED-CT
+device,Walker (physical object),705406009,SNOMED-CT
+device,Patient lifting system (physical object),706112002,SNOMED-CT
+device,Mechanical cardiac valve prosthesis (physical object),705991002,SNOMED-CT
+device,Crutches (physical object),363753007,SNOMED-CT
+device,Oxygen concentrator (physical object),336621006,SNOMED-CT
+device,Mechanical ventilator (physical object),449071006,SNOMED-CT
+device,Videolaryngoscope (physical object),448907002,SNOMED-CT
+device,Hemodialysis machine  device (physical object),36965003,SNOMED-CT
+device,Portable oxygen cylinder (physical object),261323006,SNOMED-CT
+device,Power-assisted wheelchair (physical object),705427004,SNOMED-CT
+device,Aortic valve bioprosthesis (physical object),860577005,SNOMED-CT
+device,Portable oxygen concentrator (physical object),464173000,SNOMED-CT
+device,Intra-aortic balloon pump  device (physical object),129113006,SNOMED-CT
+device,Home-use sleep apnea recording system (physical object),720253003,SNOMED-CT
+device,Ventricular assist device (physical object),360064003,SNOMED-CT
+device,Left ventricular assist device (physical object),360066001,SNOMED-CT
+device,Implantable cardiac pacemaker (physical object),706004007,SNOMED-CT
+device,Cardiac pacemaker  device (physical object),14106009,SNOMED-CT
+encounter,Well child visit (procedure),410620009,SNOMED-CT
+encounter,Emergency room admission (procedure),50849002,SNOMED-CT
+encounter,Encounter for check up,185349003,SNOMED-CT
+encounter,Consultation for treatment,698314001,SNOMED-CT
+encounter,General examination of patient (procedure),162673000,SNOMED-CT
+encounter,Encounter for symptom,185345009,SNOMED-CT
+encounter,Patient encounter procedure,308335008,SNOMED-CT
+encounter,Prenatal initial visit,424441002,SNOMED-CT
+encounter,Prenatal visit,424619006,SNOMED-CT
+encounter,Admission to skilled nursing facility (procedure),449411000124106,SNOMED-CT
+encounter,Obstetric emergency hospital admission,183460006,SNOMED-CT
+encounter,Postnatal visit,169762003,SNOMED-CT
+encounter,Administration of vaccine to produce active immunity (procedure),33879002,SNOMED-CT
+encounter,Encounter for check up (procedure),185349003,SNOMED-CT
+encounter,Follow-up encounter (procedure),390906007,SNOMED-CT
+encounter,Periodic reevaluation and management of healthy individual (procedure),86013001,SNOMED-CT
+encounter,Discussion about treatment (procedure),223484005,SNOMED-CT
+encounter,Encounter for problem,185347001,SNOMED-CT
+encounter,Postoperative follow-up visit (procedure),439740005,SNOMED-CT
+encounter,Urgent care clinic (environment),702927004,SNOMED-CT
+encounter,Encounter for symptom (procedure),185345009,SNOMED-CT
+encounter,Asthma follow-up,394701000,SNOMED-CT
+encounter,Encounter for problem (procedure),185347001,SNOMED-CT
+encounter,Hospital admission (procedure),32485007,SNOMED-CT
+encounter,Patient transfer to intensive care unit (procedure),397821002,SNOMED-CT
+encounter,Admission to ward (procedure),305342007,SNOMED-CT
+encounter,Patient-initiated encounter,270427003,SNOMED-CT
+encounter,Admission to surgical department,305408004,SNOMED-CT
+encounter,Follow-up encounter,390906007,SNOMED-CT
+encounter,Follow-up visit (procedure),185389009,SNOMED-CT
+encounter,Drug rehabilitation and detoxification,56876005,SNOMED-CT
+encounter,Patient encounter procedure (procedure),308335008,SNOMED-CT
+encounter,Emergency hospital admission (procedure),183452005,SNOMED-CT
+encounter,Emergency treatment (procedure),182813001,SNOMED-CT
+encounter,Admission to surgical transplant department (procedure),305432006,SNOMED-CT
+encounter,Admission to hospice (procedure),305336008,SNOMED-CT
+encounter,Death Certification,308646001,SNOMED-CT
+encounter,Non-urgent orthopedic admission,183495009,SNOMED-CT
+encounter,Hospital admission for isolation (procedure),1505002,SNOMED-CT
+encounter,Emergency hospital admission for asthma,183478001,SNOMED-CT
+encounter,Allergic disorder initial assessment,170837001,SNOMED-CT
+encounter,Outpatient procedure,371883000,SNOMED-CT
+encounter,Allergic disorder follow-up assessment,170838006,SNOMED-CT
+encounter,Home visit (procedure),439708006,SNOMED-CT
+encounter,Admission to intensive care unit (procedure),305351004,SNOMED-CT
+encounter,Telemedicine consultation with patient,448337001,SNOMED-CT
+encounter,Office Visit,316744009,SNOMED-CT
+encounter,Physician visit with evaluation AND/OR management service (procedure),108219001,SNOMED-CT
+encounter,Screening surveillance (regime/therapy),410410006,SNOMED-CT
+encounter,Hospital admission,32485007,SNOMED-CT
+encounter,Initial Psychiatric Interview with mental status evaluation,79094001,SNOMED-CT
+encounter,Admission to thoracic surgery department,305411003,SNOMED-CT
+encounter,Domiciliary or rest home patient evaluation and management,210098006,SNOMED-CT
+encounter,Emergency department patient visit (procedure),4525004,SNOMED-CT
+encounter,Hospital admission  for observation (procedure),76464004,SNOMED-CT
+encounter,Transfer to stepdown unit (procedure),449214001,SNOMED-CT
+encounter,posttraumatic stress disorder,47505003,SNOMED-CT
+encounter,Telephone encounter (procedure),185317003,SNOMED-CT
+encounter,Admission to ward (procedure,305342007,SNOMED-CT
+encounter,Gynecology service (qualifier value),310061009,SNOMED-CT
+encounter,General outpatient clinic admission (procedure),40274000,SNOMED-CT
+encounter,Diagnosis of cystic fibrosis using sweat test and gene test,67799006,SNOMED-CT
+encounter,Awaiting transplantation of lung (situation),16602611000119108,SNOMED-CT
+encounter,Inpatient stay 3 days,183801001,SNOMED-CT
+encounter,Surgical procedure (procedure),387713003,SNOMED-CT
+encounter,Outpatient Procedure (procedure),371883000,SNOMED-CT
+encounter,Postoperative visit (finding),183646003,SNOMED-CT
+imaging,Digital Radiography_OF_Wrist,60027007,SNOMED-CT
+imaging,Computed Radiography_OF_Thoracic structure (body structure),399208008,SNOMED-CT
+imaging,Ultrasound_OF_Heart structure (body structure),40701008,SNOMED-CT
+imaging,Digital Radiography_OF_Structure of upper extremity between shoulder and elbow (body structure),1225002,SNOMED-CT
+imaging,Digital Radiography_OF_Clavicle,168594001,SNOMED-CT
+imaging,Digital Radiography_OF_Knee,74016001,SNOMED-CT
+imaging,Digital Radiography_OF_Ankle,19490002,SNOMED-CT
+imaging,Ultrasound_OF_Thoracic structure (body structure),433236007,SNOMED-CT
+imaging,Digital Radiography_OF_Pelvis,268425006,SNOMED-CT
+imaging,Computed Tomography_OF_Thoracic structure (body structure),16335031000119103,SNOMED-CT
+imaging,Digital Radiography_OF_Chest,399208008,SNOMED-CT
+imaging,Computed Tomography_OF_Entire chest and abdomen and pelvis (body structure),418023006,SNOMED-CT
+imaging,Ultrasound_OF_Structure of right upper quadrant of abdomen,426701000119108,SNOMED-CT
+imaging,Ultrasound_OF_Carotid body structure (body structure),709979004,SNOMED-CT
+imaging,Computed Tomography_OF_Head structure (body structure),303653007,SNOMED-CT
+immunization,Hep B  adolescent or pediatric,8,CVX
+immunization,Hib (PRP-OMP),49,CVX
+immunization,rotavirus  monovalent,119,CVX
+immunization,IPV,10,CVX
+immunization,DTaP,20,CVX
+immunization,Pneumococcal conjugate PCV 13,133,CVX
+immunization,Influenza  seasonal  injectable  preservative free,140,CVX
+immunization,Tdap,115,CVX
+immunization,HPV  quadrivalent,62,CVX
+immunization,meningococcal MCV4P,114,CVX
+immunization,Td (adult)  5 Lf tetanus toxoid  preservative free  adsorbed,113,CVX
+immunization,Hep B  adult,43,CVX
+immunization,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,208,CVX
+immunization,Hep A  adult,52,CVX
+immunization,zoster vaccine  live,121,CVX
+immunization,varicella,21,CVX
+immunization,MMR,3,CVX
+immunization,Hep A  ped/adol  2 dose,83,CVX
+immunization,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,207,CVX
+immunization,pneumococcal polysaccharide vaccine  23 valent,33,CVX
+immunization,SARS-COV-2 (COVID-19) vaccine  vector non-replicating  recombinant spike protein-Ad26  preservative free  0.5 mL,212,CVX
+immunization,meningococcal polysaccharide (groups A  C  Y and W-135) diphtheria toxoid conjugate vaccine (MCV4P),114,CVX
+immunization,zoster vaccine recombinant,187,CVX
+immunization,tetanus toxoid  reduced diphtheria toxoid  and acellular pertussis vaccine  adsorbed,115,CVX
+immunization,pneumococcal conjugate vaccine  13 valent,133,CVX
+medication,Acetaminophen 160 MG Chewable Tablet,313820,RXNORM
+medication,Ibuprofen 200 MG Oral Tablet,310965,RXNORM
+medication,Yaz 28 Day Pack,748856,RXNORM
+medication,Natazia 28 Day Pack,978950,RXNORM
+medication,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,562251,RXNORM
+medication,1 ML medroxyprogesterone acetate 150 MG/ML Injection,1000126,RXNORM
+medication,Errin 28 Day Pack,831533,RXNORM
+medication,Amoxicillin 250 MG Oral Capsule,308182,RXNORM
+medication,Meperidine Hydrochloride 50 MG Oral Tablet,861467,RXNORM
+medication,Camila 28 Day Pack,748962,RXNORM
+medication,Acetaminophen 325 MG Oral Tablet,313782,RXNORM
+medication,lisinopril 10 MG Oral Tablet,314076,RXNORM
+medication,amLODIPine 2.5 MG Oral Tablet,308136,RXNORM
+medication,Hydrochlorothiazide 25 MG Oral Tablet,310798,RXNORM
+medication,Seasonique 91 Day Pack,749762,RXNORM
+medication,5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab 120 MG/ML Injection,2119714,RXNORM
+medication,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent],895996,RXNORM
+medication,albuterol 0.83 MG/ML Inhalation Solution,630208,RXNORM
+medication,Penicillin V Potassium 500 MG Oral Tablet,834102,RXNORM
+medication,Chlorpheniramine Maleate 2 MG/ML Oral Solution,477045,RXNORM
+medication,Clopidogrel 75 MG Oral Tablet,309362,RXNORM
+medication,Simvastatin 20 MG Oral Tablet,312961,RXNORM
+medication,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet,866412,RXNORM
+medication,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,705129,RXNORM
+medication,cefazolin 2000 MG Injection,1665060,RXNORM
+medication,1 ML heparin sodium  porcine 5000 UNT/ML Injection,1659263,RXNORM
+medication,25 ML protamine sulfate (USP) 10 MG/ML Injection,1796676,RXNORM
+medication,2 ML Ondansetron 2 MG/ML Injection,1740467,RXNORM
+medication,Midazolam 1 MG/ML Injectable Solution,311700,RXNORM
+medication,100 ML Propofol 10 MG/ML Injection,1808217,RXNORM
+medication,Rocuronium bromide 10 MG/ML Injectable Solution,1234995,RXNORM
+medication,isoflurane 99.9 % Inhalation Solution,542347,RXNORM
+medication,remifentanil 2 MG Injection,1729584,RXNORM
+medication,Mirena 52 MG Intrauterine System,807283,RXNORM
+medication,diphenhydrAMINE Hydrochloride 25 MG Oral Tablet,1049630,RXNORM
+medication,ferrous sulfate 325 MG Oral Tablet,310325,RXNORM
+medication,Naproxen sodium 220 MG Oral Tablet,849574,RXNORM
+medication,Simvastatin 10 MG Oral Tablet,314231,RXNORM
+medication,Hydrocortisone 10 MG/ML Topical Cream,106258,RXNORM
+medication,Loratadine 10 MG Oral Tablet,311372,RXNORM
+medication,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,1870230,RXNORM
+medication,clonazePAM 0.25 MG Oral Tablet,204892,RXNORM
+medication,Jolivette 28 Day Pack,757594,RXNORM
+medication,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet,856987,RXNORM
+medication,Leucovorin 100 MG Injection,1803932,RXNORM
+medication,10 ML oxaliplatin 5 MG/ML Injection,1736776,RXNORM
+medication,Acetaminophen 325 MG Oral Tablet [Tylenol],209387,RXNORM
+medication,Cefuroxime 250 MG Oral Tablet,309097,RXNORM
+medication,Amoxicillin 500 MG Oral Tablet,308192,RXNORM
+medication,Ibuprofen 100 MG Oral Tablet,198405,RXNORM
+medication,Liletta 52 MG Intrauterine System,1605257,RXNORM
+medication,Etonogestrel 68 MG Drug Implant,389221,RXNORM
+medication,NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal System,1367439,RXNORM
+medication,Ibuprofen 400 MG Oral Tablet [Ibu],206905,RXNORM
+medication,insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin],106892,RXNORM
+medication,Nitrofurantoin 5 MG/ML Oral Suspension,311989,RXNORM
+medication,Phenazopyridine hydrochloride 100 MG Oral Tablet,1094107,RXNORM
+medication,atomoxetine 100 MG Oral Capsule,608139,RXNORM
+medication,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,1043400,RXNORM
+medication,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen],205923,RXNORM
+medication,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,1534809,RXNORM
+medication,1 ML tacrolimus 5 MG/ML Injection,108515,RXNORM
+medication,24 HR tacrolimus 1 MG Extended Release Oral Tablet,1664463,RXNORM
+medication,Naproxen 500 MG Oral Tablet,198014,RXNORM
+medication,Methotrexate 2.5 MG Oral Tablet,105585,RXNORM
+medication,insulin  regular  human 100 UNT/ML Injectable Solution,311034,RXNORM
+medication,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet],1049625,RXNORM
+medication,Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin],1049504,RXNORM
+medication,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,860975,RXNORM
+medication,Trinessa 28 Day Pack,751905,RXNORM
+medication,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,1049221,RXNORM
+medication,Levora 0.15/30 28 Day Pack,748879,RXNORM
+medication,sevoflurane 1000 MG/ML Inhalation Solution,200243,RXNORM
+medication,Fexofenadine hydrochloride 30 MG Oral Tablet,997488,RXNORM
+medication,Kyleena 19.5 MG Intrauterine System,1856546,RXNORM
+medication,12 HR Cefaclor 500 MG Extended Release Oral Tablet,309043,RXNORM
+medication,Penicillin V Potassium 250 MG Oral Tablet,834061,RXNORM
+medication,72 HR Fentanyl 0.025 MG/HR Transdermal System,245134,RXNORM
+medication,tramadol hydrochloride 50 MG Oral Tablet,835603,RXNORM
+medication,Loratadine 5 MG Chewable Tablet,665078,RXNORM
+medication,Vitamin B12 5 MG/ML Injectable Solution,2001499,RXNORM
+medication,0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe,854235,RXNORM
+medication,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,2123111,RXNORM
+medication,Acetaminophen 500 MG Oral Tablet,198440,RXNORM
+medication,1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe,854252,RXNORM
+medication,120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent],896001,RXNORM
+medication,Alteplase 100 MG Injection,1804799,RXNORM
+medication,Aspirin 81 MG Oral Tablet,243670,RXNORM
+medication,24 HR metoprolol succinate 200 MG Extended Release Oral Tablet,866419,RXNORM
+medication,atorvastatin 80 MG Oral Tablet,259255,RXNORM
+medication,lisinopril 20 MG Oral Tablet,314077,RXNORM
+medication,prasugrel 10 MG Oral Tablet,855812,RXNORM
+medication,Levothyroxine Sodium 0.075 MG Oral Tablet,966222,RXNORM
+medication,Astemizole 10 MG Oral Tablet,197378,RXNORM
+medication,Alendronic acid 10 MG Oral Tablet,904419,RXNORM
+medication,Furosemide 40 MG Oral Tablet,313988,RXNORM
+medication,carvedilol 25 MG Oral Tablet,200033,RXNORM
+medication,10 ML Furosemide 10 MG/ML Injection,1719286,RXNORM
+medication,losartan potassium 50 MG Oral Tablet,979492,RXNORM
+medication,NITROFURANTOIN  MACROCRYSTALS 50 MG Oral Capsule,311995,RXNORM
+medication,Galantamine 4 MG Oral Tablet,310436,RXNORM
+medication,24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule,1599803,RXNORM
+medication,Cisplatin 50 MG Injection,1736854,RXNORM
+medication,PACLitaxel 100 MG Injection,583214,RXNORM
+medication,nicotine 7 MG/Day 24HR Transdermal System,198031,RXNORM
+medication,1 ML DOCEtaxel 20 MG/ML Injection,1860480,RXNORM
+medication,0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe,752899,RXNORM
+medication,24 HR metoprolol succinate 50 MG Extended Release Oral Tablet,866436,RXNORM
+medication,atorvastatin 20 MG Oral Tablet,617310,RXNORM
+medication,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir],745752,RXNORM
+medication,Fexofenadine hydrochloride 60 MG Oral Tablet,997501,RXNORM
+medication,doxycycline hyclate 100 MG,1649987,RXNORM
+medication,Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet,857005,RXNORM
+medication,Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet,993770,RXNORM
+medication,budesonide 0.125 MG/ML Inhalation Suspension,349094,RXNORM
+medication,Warfarin Sodium 5 MG Oral Tablet,855332,RXNORM
+medication,Digoxin 0.125 MG Oral Tablet,197604,RXNORM
+medication,verapamil hydrochloride 80 MG Oral Tablet,897685,RXNORM
+medication,Insulin Lispro 100 UNT/ML Injectable Solution [Humalog],865098,RXNORM
+medication,10 ML Fentanyl 0.05 MG/ML Injection,1735006,RXNORM
+medication,metoprolol tartrate 50 MG Oral Tablet,866514,RXNORM
+medication,atorvastatin 10 MG Oral Tablet,617312,RXNORM
+medication,Allopurinol 100 MG Oral Tablet,197319,RXNORM
+medication,aspirin 325 MG Oral Tablet,212033,RXNORM
+medication,nitroglycerin 0.4 MG Sublingual Tablet,198039,RXNORM
+medication,heparin sodium  porcine 100 UNT/ML Injectable Solution,1361048,RXNORM
+medication,ticagrelor 90 MG Oral Tablet,1116635,RXNORM
+medication,rosuvastatin calcium 10 MG Oral Tablet,859747,RXNORM
+medication,hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet,636045,RXNORM
+medication,Tacrine 10 MG Oral Capsule,313185,RXNORM
+medication,Ortho Tri-Cyclen 28 Day Pack,749785,RXNORM
+medication,Levonorgestrel 0.00354 MG/HR Drug Implant,1366343,RXNORM
+medication,Norinyl 1+50 28 Day Pack,749882,RXNORM
+medication,sacubitril 97 MG / valsartan 103 MG Oral Tablet,1656356,RXNORM
+medication,Terfenadine 60 MG Oral Tablet,141918,RXNORM
+medication,desflurane 1000 MG/ML Inhalation Solution,562366,RXNORM
+medication,Ampicillin 100 MG/ML Injectable Solution,789980,RXNORM
+medication,carbamazepine 20 MG/ML Oral Suspension [Tegretol],308971,RXNORM
+medication,12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule,1860491,RXNORM
+medication,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,896209,RXNORM
+medication,albuterol 5 MG/ML Inhalation Solution,245314,RXNORM
+medication,albuterol 0.21 MG/ML Inhalation Solution,351137,RXNORM
+medication,10 ML Alfentanil 0.5 MG/ML Injection,1723208,RXNORM
+medication,duloxetine 20 MG Delayed Release Oral Capsule,596926,RXNORM
+medication,Milnacipran hydrochloride 100 MG Oral Tablet,833135,RXNORM
+medication,cycloSPORINE  modified 100 MG Oral Capsule,241834,RXNORM
+medication,pregabalin 100 MG Oral Capsule,483438,RXNORM
+medication,Diazepam 5 MG Oral Tablet,197591,RXNORM
+medication,Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet,1860154,RXNORM
+medication,vancomycin 1000 MG Injection,1807513,RXNORM
+medication,piperacillin 4000 MG / tazobactam 500 MG Injection,1659149,RXNORM
+medication,4 ML Norepinephrine 1 MG/ML Injection,242969,RXNORM
+medication,1 ML Vasopressin (USP) 20 UNT/ML Injection,2103182,RXNORM
+medication,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet,351266,RXNORM
+medication,piperacillin 2000 MG / tazobactam 250 MG Injection,1659131,RXNORM
+medication,150 ML vancomycin 5 MG/ML Injection,1807510,RXNORM
+medication,enoxaparin sodium 100 MG/ML Injectable Solution,854255,RXNORM
+medication,simvastatin 40 MG Oral Tablet,198211,RXNORM
+medication,irbesartan 300 MG Oral Tablet,200096,RXNORM
+medication,heparin sodium  porcine 1000 UNT/ML Injectable Solution,1361226,RXNORM
+medication,aspirin 81 MG Oral Capsule,2563431,RXNORM
+medication,FLUoxetine 20 MG Oral Capsule,310385,RXNORM
+medication,Donepezil hydrochloride 10 MG Oral Tablet,997223,RXNORM
+medication,Memantine hydrochloride 2 MG/ML Oral Solution,996740,RXNORM
+medication,Etoposide 100 MG Injection,226719,RXNORM
+medication,14 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex],746811,RXNORM
+medication,5 ML SUFentanil 0.05 MG/ML Injection,1809104,RXNORM
+medication,24 HR metoprolol succinate 25 MG Extended Release Oral Tablet,866427,RXNORM
+medication,lisinopril 5 MG Oral Tablet,311354,RXNORM
+medication,cetirizine hydrochloride 5 MG Oral Tablet,1014676,RXNORM
+medication,Diazepam 5 MG/ML Injectable Solution,309845,RXNORM
+medication,losartan potassium 25 MG Oral Tablet,979485,RXNORM
+medication,carvedilol 12.5 MG Oral Tablet,200032,RXNORM
+medication,hydrochlorothiazide 12.5 MG / losartan potassium 50 MG Oral Tablet,979468,RXNORM
+medication,Azithromycin 250mg,212446,RXNORM
+medication,predniSONE 5 MG Oral Tablet,312617,RXNORM
+medication,Methylphenidate Hydrochloride 20 MG Oral Tablet,1091392,RXNORM
+medication,NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin],859088,RXNORM
+medication,budesonide 0.25 MG/ML Inhalation Suspension,351109,RXNORM
+medication,Azithromycin 250 MG Oral Capsule,141962,RXNORM
+medication,clopidogrel 300 MG Oral Tablet,749196,RXNORM
+medication,2 ML morphine sulfate 1 MG/ML Injection,1728805,RXNORM
+medication,nebivolol 10 MG Oral Tablet [Bystolic],751616,RXNORM
+medication,lisinopril 40 MG Oral Tablet,197884,RXNORM
+medication,5 ML fulvestrant 50 MG/ML Prefilled Syringe,727762,RXNORM
+medication,budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort],616830,RXNORM
+medication,bivalirudin 50 ML; 5 MG/ML Injection,1997015,RXNORM
+medication,metoprolol tartrate 25 MG Oral Tablet,866924,RXNORM
+medication,Sertraline 100 MG Oral Tablet,312938,RXNORM
+medication,Acetaminophen/Hydrocodone,856980,RXNORM
+medication,Sodium Chloride 9 MG/ML Injectable Solution,313002,RXNORM
+medication,1 ML Morphine Sulfate 5 MG/ML Injection,1732136,RXNORM
+medication,Naltrexone hydrochloride 50 MG Oral Tablet,1483744,RXNORM
+medication,cetirizine hydrochloride 10 MG Oral Tablet,1014678,RXNORM
+medication,ezetimibe 10 MG / simvastatin 40 MG Oral Tablet,476350,RXNORM
+medication,Tamoxifen 10 MG Oral Tablet,198240,RXNORM
+medication,albuterol 0.417 MG/ML Inhalation Solution,351136,RXNORM
+medication,bisoprolol fumarate 5 MG Oral Tablet,854905,RXNORM
+medication,losartan potassium 100 MG Oral Tablet,979480,RXNORM
+medication,atenolol 50 MG Oral Tablet,197381,RXNORM
+medication,rosuvastatin calcium 20 MG Oral Tablet,859751,RXNORM
+medication,zidovudine 300 MG Oral Tablet,199663,RXNORM
+medication,24 HR propranolol hydrochloride 80 MG Extended Release Oral Capsule,856569,RXNORM
+medication,atorvastatin 40 MG Oral Tablet,617311,RXNORM
+medication,hydrochlorothiazide 12.5 MG / lisinopril 10 MG Oral Tablet,197885,RXNORM
+medication,24 HR tacrolimus 5 MG Extended Release Oral Capsule,1431987,RXNORM
+medication,Penicillin G 375 MG/ML Injectable Solution,105078,RXNORM
+medication,Benztropine mesylate 0.5 MG Oral Tablet,885219,RXNORM
+medication,glycopyrrolate 1.5 MG Oral Tablet [Glycate],143975,RXNORM
+medication,Dysport botulinum toxin A 300 UNT Injection,1789958,RXNORM
+medication,Lorazepam 2 MG/ML Injectable Solution,238100,RXNORM
+medication,Mestranol / Norethynodrel,235389,RXNORM
+medication,bisoprolol fumarate 2.5 MG / hydrochlorothiazide 6.25 MG Oral Tablet,854916,RXNORM
+medication,emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,476556,RXNORM
+medication,ritonavir 100 MG Oral Capsule,317150,RXNORM
+medication,fosamprenavir 700 MG Oral Tablet,402109,RXNORM
+medication,darunavir 800 MG Oral Tablet,1359269,RXNORM
+medication,remdesivir 100 MG Injection,2284960,RXNORM
+medication,hydrochlorothiazide 25 MG / lisinopril 20 MG Oral Tablet,197887,RXNORM
+medication,Donepezil hydrochloride 23 MG Oral Tablet,1100184,RXNORM
+medication,24 HR propranolol hydrochloride 60 MG Extended Release Oral Capsule,856535,RXNORM
+medication,rosuvastatin calcium 5 MG Oral Tablet,859424,RXNORM
+medication,Estrostep Fe 28 Day Pack,1359133,RXNORM
+medication,enalapril maleate 20 MG Oral Tablet,858810,RXNORM
+medication,Clindamycin 300mg,284215,RXNORM
+medication,hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet,979471,RXNORM
+medication,Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar],1998774,RXNORM
+medication,ribociclib 200 MG Oral Tablet,1873983,RXNORM
+medication,10 ML Doxorubicin Hydrochloride 2 MG/ML Injection,1790099,RXNORM
+medication,lisinopril 2.5 MG Oral Tablet,311353,RXNORM
+medication,3 ML liraglutide 6 MG/ML Pen Injector,897122,RXNORM
+medication,canagliflozin 100 MG Oral Tablet,1373463,RXNORM
+medication,100 ML tirofiban 0.05 MG/ML Injection,1737466,RXNORM
+medication,hydrochlorothiazide 12.5 MG / lisinopril 20 MG Oral Tablet,197886,RXNORM
+medication,valsartan 320 MG Oral Tablet,349200,RXNORM
+medication,amlodipine 10 MG / benazepril hydrochloride 20 MG Oral Capsule,898342,RXNORM
+medication,carvedilol 6.25 MG Oral Tablet,200031,RXNORM
+medication,Pulmozyme (Dornase Alfa),205532,RXNORM
+medication,Pancreatin 600 MG Oral Tablet,198767,RXNORM
+medication,Vancomycin 50 MG/ML Injectable Solution,313572,RXNORM
+medication,20 ML Ciprofloxacin 10 MG/ML Injection,1665227,RXNORM
+medication,atazanavir 300 MG Oral Capsule,664741,RXNORM
+medication,Chlorpheniramine Maleate 4 MG Oral Tablet,1363309,RXNORM
+medication,100 ML eptifibatide 0.75 MG/ML Injection,200349,RXNORM
+medication,atenolol 25 MG Oral Tablet,197380,RXNORM
+medication,Colchicine 0.6 MG Oral Tablet,197541,RXNORM
+medication,palbociclib 100 MG Oral Capsule,1601380,RXNORM
+medication,simvastatin 5 MG Oral Tablet,312962,RXNORM
+medication,enalapril maleate 10 MG Oral Tablet,858817,RXNORM
+medication,quinapril 40 MG Oral Tablet,314203,RXNORM
+medication,amlodipine 2.5 MG / benazepril hydrochloride 10 MG Oral Capsule,898350,RXNORM
+medication,Cefaclor 250 MG Oral Capsule,309045,RXNORM
+medication,100 ML Epirubicin Hydrochloride 2 MG/ML Injection,1732186,RXNORM
+medication,pravastatin sodium 20 MG Oral Tablet,904467,RXNORM
+medication,hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet,200285,RXNORM
+medication,labetalol hydrochloride 200 MG Oral Tablet,896762,RXNORM
+medication,24 HR metoprolol succinate 50 MG Extended Release Oral Tablet [Toprol],866438,RXNORM
+medication,amlodipine 10 MG / benazepril hydrochloride 40 MG Oral Capsule,898346,RXNORM
+medication,atenolol 100 MG Oral Tablet,197379,RXNORM
+medication,bisoprolol fumarate 10 MG Oral Tablet,854901,RXNORM
+medication,Doxycycline Monohydrate 50 MG Oral Tablet,1652673,RXNORM
+medication,ramipril 10 MG Oral Capsule,261962,RXNORM
+medication,propranolol hydrochloride 10 MG Oral Tablet,856448,RXNORM
+medication,Verzenio 100 MG Oral Tablet,1946840,RXNORM
+medication,30 ACTUAT fluticasone furoate 0.2 MG/ACTUAT Dry Powder Inhaler [Arnuity],1547672,RXNORM
+medication,atorvastatin 40 MG Oral Tablet [Lipitor],617320,RXNORM
+medication,zalcitabine 0.75 MG Oral Tablet,313760,RXNORM
+medication,sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet,198335,RXNORM
+medication,efavirenz 600 MG Oral Tablet,349477,RXNORM
+medication,dolutegravir 50 MG Oral Tablet,1433873,RXNORM
+medication,metoprolol tartrate 100 MG Oral Tablet,866511,RXNORM
+medication,stavudine 40 MG Oral Capsule,313110,RXNORM
+medication,lamivudine 300 MG Oral Tablet,349491,RXNORM
+medication,nelfinavir 625 MG Oral Tablet,403978,RXNORM
+medication,emtricitabine 200 MG Oral Capsule,403875,RXNORM
+medication,tenofovir disoproxil fumarate 300 MG Oral Tablet,349251,RXNORM
+medication,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,643066,RXNORM
+medication,predniSONE 20 MG Oral Tablet,312615,RXNORM
+medication,Cefdinir,200346,RXNORM
+medication,pravastatin sodium 10 MG Oral Tablet,904458,RXNORM
+medication,amlodipine 5 MG / benazepril hydrochloride 40 MG Oral Capsule,898359,RXNORM
+medication,lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,2003249,RXNORM
+medication,letrozole 2.5 MG Oral Tablet,200064,RXNORM
+medication,emtricitabine 200 MG / tenofovir alafenamide 25 MG Oral Table,1747691,RXNORM
+medication,bictegravir 50 MG / emtricitabine 200 MG / tenofovir alafenamide 25 MG Oral Tablet,1999667,RXNORM
+medication,120 ACTUAT fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent],896006,RXNORM
+medication,24 HR metoprolol succinate 25 MG Extended Release Oral Tablet [Toprol],866429,RXNORM
+medication,quinapril 10 MG Oral Tablet,312748,RXNORM
+medication,propranolol hydrochloride 40 MG Oral Tablet,856519,RXNORM
+medication,valsartan 160 MG Oral Tablet,349201,RXNORM
+medication,pravastatin sodium 40 MG Oral Tablet,904475,RXNORM
+medication,amlodipine 5 MG / benazepril hydrochloride 20 MG Oral Capsule,898356,RXNORM
+medication,reteplase 10 UNT Injection,763138,RXNORM
+medication,benazepril hydrochloride 5 MG Oral Tablet,898723,RXNORM
+medication,amlodipine 5 MG / benazepril hydrochloride 10 MG Oral Capsule,898353,RXNORM
+medication,Doxycycline Monohydrate 100 MG Oral Tablet,1650142,RXNORM
+medication,24 HR carvedilol phosphate 20 MG Extended Release Oral Capsule [Coreg],860518,RXNORM
+medication,labetalol hydrochloride 300 MG Oral Tablet,896766,RXNORM
+medication,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,1306292,RXNORM
+medication,irbesartan 150 MG Oral Tablet,200095,RXNORM
+medication,nebivolol 20 MG Oral Tablet [Bystolic],827075,RXNORM
+medication,lovastatin 10 MG Oral Tablet,197903,RXNORM
+medication,ramipril 2.5 MG Oral Capsule,198188,RXNORM
+medication,120 ACTUAT mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Asmanex],1536144,RXNORM
+medication,Glycopyrrolate 1.5 MG Oral Tablet [Glycate],1437975,RXNORM
+medication,hydrochlorothiazide 12.5 MG / losartan potassium 100 MG Oral Tablet,979464,RXNORM
+medication,enalapril maleate 2.5 MG Oral Tablet,858804,RXNORM
+medication,nebivolol 5 MG Oral Tablet [Bystolic],751623,RXNORM
+medication,valsartan 80 MG Oral Tablet,349199,RXNORM
+medication,lovastatin 40 MG Oral Tablet,197905,RXNORM
+medication,1 ML denosumab 60 MG/ML Prefilled Syringe,993452,RXNORM
+medication,lovastatin 20 MG Oral Tablet,197904,RXNORM
+medication,Cyclophosphamide 1000 MG Injection,1734919,RXNORM
+medication,methadone hydrochloride 10 MG Oral Tablet,864706,RXNORM
+medication,atorvastatin 10 MG Oral Tablet [Lipitor],617314,RXNORM
+medication,benazepril hydrochloride 10 MG Oral Tablet,898687,RXNORM
+medication,Aztreonam 2000 MG Injection,1664986,RXNORM
+medication,carvedilol 3.125 MG Oral Tablet,686924,RXNORM
+medication,rosuvastatin calcium 40 MG Oral Tablet [Crestor],859421,RXNORM
+medication,budesonide 0.5 MG/ML Inhalation Suspension,252559,RXNORM
+medication,benazepril hydrochloride 20 MG Oral Tablet,898690,RXNORM
+medication,120 ACTUAT budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort],966524,RXNORM
+medication,hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet,349353,RXNORM
+medication,benazepril hydrochloride 40 MG Oral Tablet,898719,RXNORM
+medication,propranolol hydrochloride 20 MG Oral Tablet,856457,RXNORM
+medication,pitavastatin calcium 1 MG Oral Tablet [Livalo],861646,RXNORM
+medication,chloroquine phosphate 500 MG Oral Tablet,1116758,RXNORM
+medication,Lenzilumab 200 MG IV,999999,RXNORM
+medication,Carboplatin 10 MG/ML Injectable Solution,597195,RXNORM
+medication,pitavastatin calcium 4 MG Oral Tablet [Livalo],861654,RXNORM
+medication,rosuvastatin calcium 40 MG Oral Tablet,859419,RXNORM
+medication,Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar],1998772,RXNORM
+medication,lisinopril 30 MG Oral Tablet,205326,RXNORM
+medication,neratinib 40 MG Oral Tablet,1940648,RXNORM
+medication,30 ACTUAT fluticasone furoate 0.1 MG/ACTUAT Dry Powder Inhaler [Arnuity],1547660,RXNORM
+medication,NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil],746763,RXNORM
+medication,exemestane 25 MG Oral Tablet,310261,RXNORM
+medication,propranolol hydrochloride 60 MG Oral Tablet,856556,RXNORM
+medication,simvastatin 80 MG Oral Tablet,200345,RXNORM
+medication,lopinavir 200 MG / ritonavir 50 MG Oral Tablet,597730,RXNORM
+medication,Kalydeco 150 MG Oral Tablet,1243052,RXNORM
+medication,anastrozole 1 MG Oral Tablet,199224,RXNORM
+medication,tenecteplase 50 MG Injection,313212,RXNORM
+medication,sacubitril 24 MG / valsartan 26 MG Oral Tablet [Entresto],1656346,RXNORM
+medication,raltegravir 400 MG Oral Tablet,744842,RXNORM
+medication,didanosine 400 MG Delayed Release Oral Capsule,284988,RXNORM
+medication,enalapril maleate 5 MG Oral Tablet,858813,RXNORM
+medication,20 ML tocilizumab 20 MG/ML Injection,1657981,RXNORM
+medication,Aviptadil Infusion,999999,RXNORM
+medication,60 ACTUAT fluticasone propionate 0.05 MG/ACTUAT Dry Powder Inhaler [Flovent],896019,RXNORM
+medication,hydrochlorothiazide 12.5 MG / valsartan 80 MG Oral Tablet,200284,RXNORM
+medication,bisoprolol fumarate 10 MG / hydrochlorothiazide 6.25 MG Oral Tablet,854908,RXNORM
+medication,60 ACTUAT budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort],966529,RXNORM
+medication,rosuvastatin calcium 10 MG Oral Tablet [Crestor],859749,RXNORM
+medication,saquinavir mesylate 500 MG Oral Tablet,859863,RXNORM
+medication,metoprolol tartrate 50 MG Oral Tablet [Lopressor],866516,RXNORM
+medication,0.3 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe,854228,RXNORM
+medication,pravastatin sodium 80 MG Oral Tablet,904481,RXNORM
+procedure,Medication Reconciliation (procedure),430193006,SNOMED-CT
+procedure,Assessment of anxiety (procedure),710841007,SNOMED-CT
+procedure,Assessment of substance use (procedure),428211000124100,SNOMED-CT
+procedure,Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure),868187001,SNOMED-CT
+procedure,Anticipatory guidance (procedure),386516004,SNOMED-CT
+procedure,Depression screening (procedure),171207006,SNOMED-CT
+procedure,Depression screening using Patient Health Questionnaire Nine Item score (procedure),715252007,SNOMED-CT
+procedure,Health risks education (procedure),370995009,SNOMED-CT
+procedure,Radiography of wrist (procedure),60027007,SNOMED-CT
+procedure,Bone immobilization,274474001,SNOMED-CT
+procedure,Assessment of health and social care needs (procedure),710824005,SNOMED-CT
+procedure,Depression screening using Patient Health Questionnaire Two-Item score (procedure),454711000124102,SNOMED-CT
+procedure,Screening for drug abuse (procedure),713106006,SNOMED-CT
+procedure,Intramuscular injection,76601001,SNOMED-CT
+procedure,Screening for domestic abuse (procedure),866148006,SNOMED-CT
+procedure,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),763302001,SNOMED-CT
+procedure,Standard pregnancy test,252160004,SNOMED-CT
+procedure,Ultrasound scan for fetal viability,169230002,SNOMED-CT
+procedure,Evaluation of uterine fundal height,274804006,SNOMED-CT
+procedure,Auscultation of the fetal heart,225158009,SNOMED-CT
+procedure,Blood group typing (procedure),44608003,SNOMED-CT
+procedure,Hemogram  automated  with RBC  WBC  Hgb  Hct  Indices  Platelet count  and manual WBC differential,104091002,SNOMED-CT
+procedure,Hepatitis B Surface Antigen Measurement,47758006,SNOMED-CT
+procedure,Human immunodeficiency virus antigen test,31676001,SNOMED-CT
+procedure,Chlamydia antigen test,310861008,SNOMED-CT
+procedure,Gonorrhea infection titer test (procedure),165829005,SNOMED-CT
+procedure,Syphilis infectious titer test (procedure),269828009,SNOMED-CT
+procedure,Urine culture,117010004,SNOMED-CT
+procedure,Cytopathology procedure  preparation of smear  genital source,90226004,SNOMED-CT
+procedure,Urine screening test for diabetes,395123002,SNOMED-CT
+procedure,Hepatitis C antibody  confirmatory test,104375008,SNOMED-CT
+procedure,Rubella screening,169690007,SNOMED-CT
+procedure,Measurement of Varicella-zoster virus antibody,104326007,SNOMED-CT
+procedure,Skin test for tuberculosis  Tine test (procedure),28163009,SNOMED-CT
+procedure,Urine protein test,167271000,SNOMED-CT
+procedure,Physical examination procedure (procedure),5880005,SNOMED-CT
+procedure,Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique (procedure),443529005,SNOMED-CT
+procedure,Fetal anatomy study,271442007,SNOMED-CT
+procedure,AFP test - antenatal,275833003,SNOMED-CT
+procedure,Administration of diphtheria  pertussis  and tetanus vaccine,399014008,SNOMED-CT
+procedure,Urine screening for glucose,268556000,SNOMED-CT
+procedure,History AND physical examination (procedure),63332003,SNOMED-CT
+procedure,Initial patient assessment (procedure),315639002,SNOMED-CT
+procedure,Development of individualized plan of care (procedure),370789001,SNOMED-CT
+procedure,Nursing care/supplementary surveillance (regime/therapy),410401003,SNOMED-CT
+procedure,Professional / ancillary services care (regime/therapy),409023009,SNOMED-CT
+procedure,Pre-discharge assessment (procedure),225386006,SNOMED-CT
+procedure,Discharge from skilled nursing facility (procedure),449381000124108,SNOMED-CT
+procedure,Streptococcus pneumoniae group B antigen assay,118001005,SNOMED-CT
+procedure,Episiotomy,85548006,SNOMED-CT
+procedure,Childbirth,66348005,SNOMED-CT
+procedure,Depression screening,171207006,SNOMED-CT
+procedure,Referral to hypertension clinic,183856001,SNOMED-CT
+procedure,Suture open wound,288086009,SNOMED-CT
+procedure,Replacement of contraceptive intrauterine device,46706006,SNOMED-CT
+procedure,Removal of intrauterine device,68254000,SNOMED-CT
+procedure,Colonoscopy,73761001,SNOMED-CT
+procedure,Screening mammography (procedure),24623002,SNOMED-CT
+procedure,Ultrasonography of bilateral breasts (procedure),1571000087109,SNOMED-CT
+procedure,Biopsy of breast (procedure),122548005,SNOMED-CT
+procedure,Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure),434363004,SNOMED-CT
+procedure,Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure),433114000,SNOMED-CT
+procedure,Discussion about options (procedure),223487003,SNOMED-CT
+procedure,Lumpectomy of breast (procedure),392021009,SNOMED-CT
+procedure,Radiation therapy care (regime/therapy),385798007,SNOMED-CT
+procedure,Physical examination  complete (procedure),25656009,SNOMED-CT
+procedure,Measurement of respiratory function (procedure),23426006,SNOMED-CT
+procedure,Face mask (physical object),261352009,SNOMED-CT
+procedure,Throat culture (procedure),117015009,SNOMED-CT
+procedure,Referral to cardiology service (procedure),183519002,SNOMED-CT
+procedure,Consultation for treatment (procedure),698314001,SNOMED-CT
+procedure,Angiography of coronary artery (procedure),33367005,SNOMED-CT
+procedure,Post anesthesia care management (procedure),736169004,SNOMED-CT
+procedure,Referral to cardiac surgery service (procedure),306185001,SNOMED-CT
+procedure,Pre-surgery testing (procedure),110467000,SNOMED-CT
+procedure,Electrocardiographic procedure (procedure),29303009,SNOMED-CT
+procedure,Plain chest X-ray (procedure),399208008,SNOMED-CT
+procedure,Echocardiography (procedure),40701008,SNOMED-CT
+procedure,Notification of treatment plan (procedure),709138001,SNOMED-CT
+procedure,Scheduling (procedure),410538000,SNOMED-CT
+procedure,Insertion of catheter into artery (procedure),392247006,SNOMED-CT
+procedure,Administration of anesthesia for procedure (procedure),410770002,SNOMED-CT
+procedure,Intubation,52765003,SNOMED-CT
+procedure,Pulmonary catheterization with Swan-Ganz catheter (procedure),65677008,SNOMED-CT
+procedure,Preparation of patient for procedure (regime/therapy),223495004,SNOMED-CT
+procedure,Median sternotomy (procedure),359672006,SNOMED-CT
+procedure,Off-pump coronary artery bypass (procedure),418824004,SNOMED-CT
+procedure,Documentation procedure (procedure),23745001,SNOMED-CT
+procedure,Removal of endotracheal tube (procedure),271280005,SNOMED-CT
+procedure,Transfusion of packed red blood cells (procedure),71493000,SNOMED-CT
+procedure,Discharge to ward (procedure),306706006,SNOMED-CT
+procedure,Postoperative procedure education (procedure),243063003,SNOMED-CT
+procedure,Walking exercise test (procedure),302761001,SNOMED-CT
+procedure,Stair-climbing test (procedure),252482003,SNOMED-CT
+procedure,Discharge from hospital (procedure),308283009,SNOMED-CT
+procedure,Instrumental delivery,236974004,SNOMED-CT
+procedure,Counseling for termination of pregnancy,10383002,SNOMED-CT
+procedure,Induced termination of pregnancy,714812005,SNOMED-CT
+procedure,Pregnancy termination care,386394001,SNOMED-CT
+procedure,Insertion of intrauterine contraceptive device,65200003,SNOMED-CT
+procedure,Injection of tetanus antitoxin,384700001,SNOMED-CT
+procedure,Screening for occult blood in feces (procedure),104435004,SNOMED-CT
+procedure,Rectal polypectomy,274031008,SNOMED-CT
+procedure,Rehabilitation therapy (regime/therapy),52052004,SNOMED-CT
+procedure,Sleep apnea assessment (procedure),103750000,SNOMED-CT
+procedure,Biopsy of colon,76164006,SNOMED-CT
+procedure,Peripheral blood smear interpretation,14768001,SNOMED-CT
+procedure,Review of systems (procedure),415300000,SNOMED-CT
+procedure,Brief general examination (procedure),162676008,SNOMED-CT
+procedure,Partial resection of colon,43075005,SNOMED-CT
+procedure,Postoperative care (regime/therapy),133899007,SNOMED-CT
+procedure,Combined chemotherapy and radiation therapy (procedure),703423002,SNOMED-CT
+procedure,Appendectomy,80146002,SNOMED-CT
+procedure,Movement therapy (regime/therapy),229064008,SNOMED-CT
+procedure,Upper arm X-ray,1225002,SNOMED-CT
+procedure,Bone density scan (procedure),312681000,SNOMED-CT
+procedure,Augmentation of labor,237001001,SNOMED-CT
+procedure,Premature birth of newborn,65588006,SNOMED-CT
+procedure,Insertion of subcutaneous contraceptive,169553002,SNOMED-CT
+procedure,Assessment using Morse Fall Scale (procedure),762993000,SNOMED-CT
+procedure,Speech and language therapy regime (regime/therapy),311555007,SNOMED-CT
+procedure,Percutaneous coronary intervention (procedure),415070008,SNOMED-CT
+procedure,Sputum examination (procedure),269911007,SNOMED-CT
+procedure,Sterilization education (procedure),268533009,SNOMED-CT
+procedure,Bilateral tubal ligation,287664005,SNOMED-CT
+procedure,Cognitive and behavioral therapy (regime/therapy),228557008,SNOMED-CT
+procedure,Renal dialysis (procedure),265764009,SNOMED-CT
+procedure,Medical induction of labor,31208007,SNOMED-CT
+procedure,Pretransplant evaluation of kidney recipient (procedure),428830000,SNOMED-CT
+procedure,Transplant of kidney (procedure),70536003,SNOMED-CT
+procedure,Transplantation of kidney regime (regime/therapy),711446003,SNOMED-CT
+procedure,Renal disorder medication review (procedure),473231009,SNOMED-CT
+procedure,Referral to service (procedure),306206005,SNOMED-CT
+procedure,Continuous subcutaneous infusion of insulin (procedure),180178009,SNOMED-CT
+procedure,Cannulation (procedure),42825003,SNOMED-CT
+procedure,Cardiopulmonary bypass operation (procedure),63697000,SNOMED-CT
+procedure,Placement of aortic cross clamp (procedure),301882004,SNOMED-CT
+procedure,Induced cardioplegia (procedure),8290005,SNOMED-CT
+procedure,Coronary artery bypass grafting (procedure),232717009,SNOMED-CT
+procedure,Removal of aortic cross clamp (procedure),301884003,SNOMED-CT
+procedure,Vascular cannula removal (procedure),233553003,SNOMED-CT
+procedure,Clavicle X-ray,168594001,SNOMED-CT
+procedure,Admission to orthopedic department,305428000,SNOMED-CT
+procedure,Occupational therapy (regime/therapy),84478008,SNOMED-CT
+procedure,Physical therapy procedure (regime/therapy),91251008,SNOMED-CT
+procedure,Referral to sleep apnea clinic (procedure),698560000,SNOMED-CT
+procedure,Sleep apnea monitoring with alarm (regime/therapy),82808001,SNOMED-CT
+procedure,Platelet transfusion (procedure),12719002,SNOMED-CT
+procedure,Nasal sinus endoscopy (procedure),112790001,SNOMED-CT
+procedure,Allergy screening test,395142003,SNOMED-CT
+procedure,Removal of subcutaneous contraceptive,301807007,SNOMED-CT
+procedure,Certification procedure (procedure),310417005,SNOMED-CT
+procedure,Notifications (procedure),185087000,SNOMED-CT
+procedure,Hospice care (regime/therapy),385763009,SNOMED-CT
+procedure,Knee X-ray,74016001,SNOMED-CT
+procedure,Surgical manipulation of joint of knee,699253003,SNOMED-CT
+procedure,Care regimes assessment (procedure),392091000,SNOMED-CT
+procedure,Passive immunization (procedure),51116004,SNOMED-CT
+procedure,Ankle X-ray,19490002,SNOMED-CT
+procedure,Oxygen administration by mask (procedure),371908008,SNOMED-CT
+procedure,Placing subject in prone position (procedure),431182000,SNOMED-CT
+procedure,Vasectomy,22523008,SNOMED-CT
+procedure,Subcutaneous immunotherapy,180256009,SNOMED-CT
+procedure,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance with contrast (procedure),433112001,SNOMED-CT
+procedure,Home health aide service (regime/therapy),385781007,SNOMED-CT
+procedure,Patient discharge (procedure),58000006,SNOMED-CT
+procedure,Referral to transplant surgeon (procedure),306316000,SNOMED-CT
+procedure,Electrocardiographic procedure,29303009,SNOMED-CT
+procedure,Assessment using New York Heart Association Classification (procedure),762998009,SNOMED-CT
+procedure,Heart failure education (procedure),423475008,SNOMED-CT
+procedure,Digital examination of rectum,410006001,SNOMED-CT
+procedure,Computed tomography of chest and abdomen,418891003,SNOMED-CT
+procedure,Thoracentesis (procedure),91602002,SNOMED-CT
+procedure,Magnetic resonance imaging for measurement of brain volume (procedure),698354004,SNOMED-CT
+procedure,Pelvis X-ray,268425006,SNOMED-CT
+procedure,Biopsy of prostate,65575008,SNOMED-CT
+procedure,Prostatectomy,90470006,SNOMED-CT
+procedure,Extraction of wisdom tooth,65546002,SNOMED-CT
+procedure,Asthma screening,171231001,SNOMED-CT
+procedure,Antenatal RhD antibody screening,169673001,SNOMED-CT
+procedure,Cesarean section,11466000,SNOMED-CT
+procedure,Intravenous blood transfusion of packed cells (procedure),180207008,SNOMED-CT
+procedure,Epidural anesthesia,18946005,SNOMED-CT
+procedure,Sputum microscopy (procedure),167995008,SNOMED-CT
+procedure,Hearing examination (procedure),398171003,SNOMED-CT
+procedure,High resolution computed tomography of chest without contrast (procedure),16335031000119103,SNOMED-CT
+procedure,Monitoring of patient (regime/therapy),182777000,SNOMED-CT
+procedure,Direct current cardioversion (procedure),180325003,SNOMED-CT
+procedure,Mammography (procedure),71651007,SNOMED-CT
+procedure,Catheter ablation of tissue of heart (procedure),18286008,SNOMED-CT
+procedure,Assessment of cardiac status using monitoring device (procedure),710839006,SNOMED-CT
+procedure,Laboratory test (procedure),15220000,SNOMED-CT
+procedure,Diagnostic assessment (procedure),165197003,SNOMED-CT
+procedure,Transthoracic echocardiography (procedure),433236007,SNOMED-CT
+procedure,Cardiovascular stress testing (procedure),76746007,SNOMED-CT
+procedure,Electroencephalogram (procedure),54550000,SNOMED-CT
+procedure,Spirometry (procedure),127783003,SNOMED-CT
+procedure,Insertion of endotracheal tube (procedure),112798008,SNOMED-CT
+procedure,Controlled ventilation procedure and therapy  initiation and management (procedure),26763009,SNOMED-CT
+procedure,Hemodialysis (procedure),302497006,SNOMED-CT
+procedure,Psychosocial care (regime/therapy),408919008,SNOMED-CT
+procedure,Pulmonary rehabilitation (regime/therapy),15081005,SNOMED-CT
+procedure,Referral to home health care service (procedure),417511005,SNOMED-CT
+procedure,Comprehensive interview and evaluation (procedure),200619008,SNOMED-CT
+procedure,Coordination of care plan (procedure),711069006,SNOMED-CT
+procedure,Resuscitation using intravenous fluid (procedure),430701006,SNOMED-CT
+procedure,Transfer to stepdown unit (procedure),449214001,SNOMED-CT
+procedure,Referral for echocardiography (procedure),390791001,SNOMED-CT
+procedure,Risk assessment (procedure),225338004,SNOMED-CT
+procedure,Review of imaging finding (procedure),452331000124102,SNOMED-CT
+procedure,Operative procedure planned (situation),183976008,SNOMED-CT
+procedure,Liaising with referral source (procedure),709010006,SNOMED-CT
+procedure,Medical records review (procedure),312853008,SNOMED-CT
+procedure,Coronary angiography (procedure),3336700,SNOMED-CT
+procedure,Computed tomography of chest  abdomen and pelvis (procedure),418023006,SNOMED-CT
+procedure,Dental consultation and report (procedure),34043003,SNOMED-CT
+procedure,Simple walk test (procedure),252480006,SNOMED-CT
+procedure,Assessment using Canadian Study of Health and Aging Clinical Frailty Scale (procedure),763228001,SNOMED-CT
+procedure,Assessment using health assessment questionnaire (procedure),445988008,SNOMED-CT
+procedure,Multidisciplinary assessment (procedure),312384001,SNOMED-CT
+procedure,Intraoperative care (regime/therapy),133900002,SNOMED-CT
+procedure,Incision (procedure),34896006,SNOMED-CT
+procedure,Replacement of aortic valve (procedure),26212005,SNOMED-CT
+procedure,Transesophageal echocardiography (procedure),105376000,SNOMED-CT
+procedure,Application of dressing  sterile (procedure),58828004,SNOMED-CT
+procedure,Patient transfer  in-hospital (procedure),37729005,SNOMED-CT
+procedure,Microbial culture (procedure),61594008,SNOMED-CT
+procedure,Chest X-ray,399208008,SNOMED-CT
+procedure,positive screening for PHQ-9,112001000119100,SNOMED-CT
+procedure,positive screening for depression on phq9,112001000119100,SNOMED-CT
+procedure,negative screening for depression on phq9,112011000119102,SNOMED-CT
+procedure,Lung volume reduction surgery (procedure),429609002,SNOMED-CT
+procedure,Information gathering (procedure),311791003,SNOMED-CT
+procedure,Spontaneous breech delivery,177157003,SNOMED-CT
+procedure,Transfusion of fresh frozen plasma (procedure),116861002,SNOMED-CT
+procedure,Transplant of lung (procedure),88039007,SNOMED-CT
+procedure,Close observation (regime/therapy),225415001,SNOMED-CT
+procedure,Emergency coronary artery bypass graft (procedure),414088005,SNOMED-CT
+procedure,Admission to intensive care unit (procedure),305351004,SNOMED-CT
+procedure,Excision of fallopian tube and surgical removal of ectopic pregnancy,445912000,SNOMED-CT
+procedure,Injection of epinephrine (procedure),313191000,SNOMED-CT
+procedure,Administration of anesthesia AND/OR sedation (procedure),410011004,SNOMED-CT
+procedure,Transcatheter aortic valve replacement (procedure),725351001,SNOMED-CT
+procedure,Admission to ward (procedure,305342007,SNOMED-CT
+procedure,12 lead electrocardiogram (procedure),268400002,SNOMED-CT
+procedure,Mammogram - symptomatic (procedure),241055006,SNOMED-CT
+procedure,Magnetic resonance imaging of breast (procedure),241615005,SNOMED-CT
+procedure,External beam radiation therapy procedure (procedure),33195004,SNOMED-CT
+procedure,Mental health screening (procedure),385892002,SNOMED-CT
+procedure,Suicide risk assessment (procedure),225337009,SNOMED-CT
+procedure,Ultrasonography of abdomen  right upper quadrant and epigastrium,426701000119108,SNOMED-CT
+procedure,Laparoscopic Removal of Gall Bladder,45595009,SNOMED-CT
+procedure,Open Removal of Gall Bladder,38102005,SNOMED-CT
+procedure,Chemotherapy (procedure),367336001,SNOMED-CT
+procedure,Transfer to stepdown,449214001,SNOMED-CT
+procedure,Artificial respiration (procedure),40617009,SNOMED-CT
+procedure,Weaning from mechanically assisted ventilation (procedure),243174005,SNOMED-CT
+procedure,Methotrexate injection into tubal pregnancy,236931002,SNOMED-CT
+procedure,Human immunodeficiency virus screening (procedure),71121004,SNOMED-CT
+procedure,Human immunodeficiency virus counseling (procedure),313077009,SNOMED-CT
+procedure,Patient referral (procedure),3457005,SNOMED-CT
+procedure,Viral hepatitis screening test (procedure),412809002,SNOMED-CT
+procedure,Hepatitis B screening (procedure),171122006,SNOMED-CT
+procedure,Hepatitis C screening (procedure),413107006,SNOMED-CT
+procedure,Hepatitis A antibody test (procedure),313613002,SNOMED-CT
+procedure,Tuberculosis screening (procedure),171126009,SNOMED-CT
+procedure,Venereal disease screening (procedure),171128005,SNOMED-CT
+procedure,Serologic test for Toxoplasma gondii (procedure),104308009,SNOMED-CT
+procedure,Absolute CD4 count procedure (procedure),313660005,SNOMED-CT
+procedure,Assessment of social support (procedure),711018006,SNOMED-CT
+procedure,Assessment of readiness for disclosure of health status (procedure),709506004,SNOMED-CT
+procedure,Assessment of readiness for self-management (procedure),733863009,SNOMED-CT
+procedure,Education  guidance and counseling (procedure),409066002,SNOMED-CT
+procedure,Care planning and problem solving actions (procedure),225297008,SNOMED-CT
+procedure,History and physical examination  limited (procedure),67879005,SNOMED-CT
+procedure,Complete blood count with white cell differential  automated (procedure),9564003,SNOMED-CT
+procedure,Cardioassist by aortic balloon pump (procedure),399217008,SNOMED-CT
+procedure,Manual pelvic examination (procedure),35025007,SNOMED-CT
+procedure,Cytopathology procedure  preparation of smear  genital source (procedure),90226004,SNOMED-CT
+procedure,Fine needle aspiration biopsy of lung (procedure),432231006,SNOMED-CT
+procedure,Injection of botulinum toxin (procedure),404909007,SNOMED-CT
+procedure,Kitchen practice,290045001,SNOMED-CT
+procedure,Exercise class,229095001,SNOMED-CT
+procedure,Continuous positive airway pressure titration (procedure),446573003,SNOMED-CT
+procedure,Reexploration procedure (procedure),122460008,SNOMED-CT
+procedure,Human immunodeficiency virus viral load (procedure),315124004,SNOMED-CT
+procedure,Excision of breast tissue (procedure),69031006,SNOMED-CT
+procedure,Sentinel lymph node biopsy (procedure),396487001,SNOMED-CT
+procedure,Excision of sentinel lymph node (procedure),443497002,SNOMED-CT
+procedure,Surgical manipulation of shoulder joint,387685009,SNOMED-CT
+procedure,Oral Glucose Tolerance Test,113076002,SNOMED-CT
+procedure,Sputum Culture,104173009,SNOMED-CT
+procedure,Pulmonary Function Test,23426006,SNOMED-CT
+procedure,Take blood sample,82078001,SNOMED-CT
+procedure,Lung Transplant,232657004,SNOMED-CT
+procedure,Intravenous antibiotic therapy,281790008,SNOMED-CT
+procedure,Intravenous infusion (procedure),14152002,SNOMED-CT
+procedure,Diagnostic fiberoptic bronchoscopy (procedure),173160006,SNOMED-CT
+procedure,Amputation of left leg,79733001,SNOMED-CT
+procedure,Amputation care (regime/therapy),386510005,SNOMED-CT
+procedure,Admission to burn unit,183450002,SNOMED-CT
+procedure,Admission to long stay hospital,305340004,SNOMED-CT
+procedure,Implantation of ventricular assist device (procedure),232965003,SNOMED-CT
+procedure,Urine pregnancy test (procedure),167252002,SNOMED-CT
+procedure,Radiation oncology AND/OR radiotherapy (procedure),108290001,SNOMED-CT
+procedure,Social case work (regime/therapy),183418007,SNOMED-CT
+procedure,Excision of axillary lymph node (procedure),234262008,SNOMED-CT
+procedure,Admission to trauma surgery department,305433001,SNOMED-CT
+procedure,Neurological examination (procedure),84728005,SNOMED-CT
+procedure,Musculoskeletal system physical examination (procedure),36321500,SNOMED-CT
+procedure,Brachytherapy of breast (procedure),447759004,SNOMED-CT
+procedure,Intracavitary brachytherapy (procedure),384692006,SNOMED-CT
+procedure,Reasons for treatment delay (finding),373786007,SNOMED-CT
+procedure,Determination of susceptibility of Human immunodeficiency virus 1 to panel of antiretroviral drugs using genotypic technique (procedure),446987006,SNOMED-CT
+procedure,Opening of chest (procedure),177765008,SNOMED-CT
+procedure,Multidisciplinary care conference (procedure),384682003,SNOMED-CT
+procedure,Evaluation of psychiatric state of patient,90407005,SNOMED-CT
+procedure,Hospital admission  short-term  24 hours,74857009,SNOMED-CT
+procedure,Psychiatric follow-up,88848003,SNOMED-CT
+procedure,Implantation of left ventricular assist device (procedure),232967006,SNOMED-CT
+procedure,Amputation of right leg,79733001,SNOMED-CT
+procedure,Doppler ultrasonography of artery (procedure),709979004,SNOMED-CT
+procedure,Computed tomography of head (procedure),303653007,SNOMED-CT
+procedure,Intravenous injection (procedure),43060002,SNOMED-CT
+procedure,Transfusion of plasma (procedure),13569004,SNOMED-CT
+procedure,Review of medication (procedure),182836005,SNOMED-CT
+procedure,Mouth care (regime/therapy),717778001,SNOMED-CT
+procedure,Posture training (procedure),229069003,SNOMED-CT
+procedure,Insertion of oral appliance for the handicapped (procedure),234817001,SNOMED-CT
+procedure,Ligation of salivary duct (procedure),302351005,SNOMED-CT
+procedure,Referral to palliative care service (procedure),306237005,SNOMED-CT
+procedure,Amputation of right arm,13995008,SNOMED-CT
+procedure,Interstitial brachytherapy (procedure),113120007,SNOMED-CT
+procedure,Admission to neurosurgical department,305425002,SNOMED-CT
+procedure,Total knee replacement,609588000,SNOMED-CT
+procedure,Total replacement of hip,52734007,SNOMED-CT
+procedure,Transfusion of red blood cells (procedure),116863004,SNOMED-CT
+procedure,Construction of diverting colostomy,387607004,SNOMED-CT
+procedure,Heparin therapy (procedure),103746007,SNOMED-CT
+procedure,Videofluoroscopy swallow (procedure),241149003,SNOMED-CT
+procedure,Amputation of right foot,180030006,SNOMED-CT
+observation,Body Height,8302-2,LOINC
+observation,Pain severity - 0-10 verbal numeric rating [Score] - Reported,72514-3,LOINC
+observation,Body Weight,29463-7,LOINC
+observation,Weight-for-length Per age and sex,77606-2,LOINC
+observation,Head Occipital-frontal circumference Percentile,8289-1,LOINC
+observation,Head Occipital-frontal circumference,9843-4,LOINC
+observation,Diastolic Blood Pressure,8462-4,LOINC
+observation,Systolic Blood Pressure,8480-6,LOINC
+observation,Heart rate,8867-4,LOINC
+observation,Respiratory rate,9279-1,LOINC
+observation,Leukocytes [#/volume] in Blood by Automated count,6690-2,LOINC
+observation,Erythrocytes [#/volume] in Blood by Automated count,789-8,LOINC
+observation,Hemoglobin [Mass/volume] in Blood,718-7,LOINC
+observation,Hematocrit [Volume Fraction] of Blood by Automated count,4544-3,LOINC
+observation,MCV [Entitic volume] by Automated count,787-2,LOINC
+observation,MCH [Entitic mass] by Automated count,785-6,LOINC
+observation,MCHC [Mass/volume] by Automated count,786-4,LOINC
+observation,Erythrocyte distribution width [Entitic volume] by Automated count,21000-5,LOINC
+observation,Platelets [#/volume] in Blood by Automated count,777-3,LOINC
+observation,Platelet distribution width [Entitic volume] in Blood by Automated count,32207-3,LOINC
+observation,Platelet mean volume [Entitic volume] in Blood by Automated count,32623-1,LOINC
+observation,Tobacco smoking status,72166-2,LOINC
+observation,QALY,QALY,
+observation,DALY,DALY,
+observation,QOLS,QOLS,
+observation,Body mass index (BMI) [Ratio],39156-5,LOINC
+observation,Body mass index (BMI) [Percentile] Per age and sex,59576-9,LOINC
+observation,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],70274-6,LOINC
+observation,Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen],89204-2,LOINC
+observation,Within the last year  have you been afraid of your partner or ex-partner?,76501-6,LOINC
+observation,Do you feel physically and emotionally safe where you currently live?,93026-3,LOINC
+observation,Are you a refugee?,93027-1,LOINC
+observation,In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?,93028-9,LOINC
+observation,Stress level,93038-8,LOINC
+observation,How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?,93029-7,LOINC
+observation,Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living,93030-5,LOINC
+observation,In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?,93031-3,LOINC
+observation,What was your best estimate of the total income of all family members from all sources  before taxes  in last year?,63586-2,LOINC
+observation,Primary insurance,76437-3,LOINC
+observation,Employment status - current,67875-5,LOINC
+observation,Highest level of education,82589-3,LOINC
+observation,Address,56799-0,LOINC
+observation,Are you worried about losing your housing?,93033-9,LOINC
+observation,Housing status,71802-3,LOINC
+observation,How many people are living or staying at this address?,63512-8,LOINC
+observation,Preferred language,54899-0,LOINC
+observation,Have you been discharged from the armed forces of the United States?,93034-7,LOINC
+observation,At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?,93035-4,LOINC
+observation,Race,32624-9,LOINC
+observation,Do you consider yourself Hispanic/Latino?,56051-6,LOINC
+observation,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],55758-7,LOINC
+observation,Total score [DAST-10],82667-7,LOINC
+observation,Total score [HARK],76504-0,LOINC
+observation,Total score [AUDIT-C],75626-2,LOINC
+observation,Hemoglobin A1c/Hemoglobin.total in Blood,4548-4,LOINC
+observation,Glucose [Mass/volume] in Blood,2339-0,LOINC
+observation,Urea nitrogen [Mass/volume] in Blood,6299-2,LOINC
+observation,Creatinine [Mass/volume] in Blood,38483-4,LOINC
+observation,Calcium [Mass/volume] in Blood,49765-1,LOINC
+observation,Sodium [Moles/volume] in Blood,2947-0,LOINC
+observation,Potassium [Moles/volume] in Blood,6298-4,LOINC
+observation,Chloride [Moles/volume] in Blood,2069-3,LOINC
+observation,Carbon dioxide  total [Moles/volume] in Blood,20565-8,LOINC
+observation,Cholesterol [Mass/volume] in Serum or Plasma,2093-3,LOINC
+observation,Triglycerides,2571-8,LOINC
+observation,Low Density Lipoprotein Cholesterol,18262-6,LOINC
+observation,Cholesterol in HDL [Mass/volume] in Serum or Plasma,2085-9,LOINC
+observation,Microalbumin/Creatinine [Mass Ratio] in Urine,14959-1,LOINC
+observation,Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD),33914-3,LOINC
+observation,Body temperature,8310-5,LOINC
+observation,Site of distant metastasis in Breast tumor,44667-4,LOINC
+observation,Distant metastases.clinical [Class] Cancer,21907-1,LOINC
+observation,Size.maximum dimension in Tumor,33728-7,LOINC
+observation,Primary tumor.clinical [Class] Cancer,21905-5,LOINC
+observation,Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy,85352-3,LOINC
+observation,Regional lymph nodes.clinical [Class] Cancer,21906-3,LOINC
+observation,HER2 [Presence] in Breast cancer specimen by Immune stain,85319-2,LOINC
+observation,HER2 [Presence] in Breast cancer specimen by FISH,85318-4,LOINC
+observation,Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain,85337-4,LOINC
+observation,Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain,85339-0,LOINC
+observation,Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain,10480-2,LOINC
+observation,Stage group.clinical Cancer,21908-9,LOINC
+observation,Treatment status Cancer,59557-9,LOINC
+observation,Response to cancer treatment,88040-1,LOINC
+observation,Oxygen saturation in Arterial blood,2708-6,LOINC
+observation,Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection,92142-9,LOINC
+observation,Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection,92141-1,LOINC
+observation,Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection,92131-2,LOINC
+observation,Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection,92140-3,LOINC
+observation,Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection,92139-5,LOINC
+observation,Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection,92138-7,LOINC
+observation,Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection,92130-4,LOINC
+observation,Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection,92134-6,LOINC
+observation,Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection,94040-3,LOINC
+observation,SARS-CoV-2 RNA Pnl Resp NAA+probe,94531-1,LOINC
+observation,Priority Level,X9999-2,LOINC
+observation,Operative Status Value,X9999-1,LOINC
+observation,Erythrocyte distribution width [Ratio] by Automated count,788-0,LOINC
+observation,Glucose [Mass/volume] in Serum or Plasma,2345-7,LOINC
+observation,Urea nitrogen [Mass/volume] in Serum or Plasma,3094-0,LOINC
+observation,Creatinine [Mass/volume] in Serum or Plasma,2160-0,LOINC
+observation,Calcium [Mass/volume] in Serum or Plasma,17861-6,LOINC
+observation,Sodium [Moles/volume] in Serum or Plasma,2951-2,LOINC
+observation,Potassium [Moles/volume] in Serum or Plasma,2823-3,LOINC
+observation,Chloride [Moles/volume] in Serum or Plasma,2075-0,LOINC
+observation,Carbon dioxide  total [Moles/volume] in Serum or Plasma,2028-9,LOINC
+observation,Protein [Mass/volume] in Serum or Plasma,2885-2,LOINC
+observation,Albumin [Mass/volume] in Serum or Plasma,1751-7,LOINC
+observation,Bilirubin.total [Mass/volume] in Serum or Plasma,1975-2,LOINC
+observation,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,6768-6,LOINC
+observation,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,1742-6,LOINC
+observation,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,1920-8,LOINC
+observation,Magnesium [Mass/volume] in Serum or Plasma,19123-9,LOINC
+observation,Phosphate [Mass/volume] in Serum or Plasma,2777-1,LOINC
+observation,Prothrombin time (PT),5902-2,LOINC
+observation,INR in Platelet poor plasma by Coagulation assay,6301-6,LOINC
+observation,aPTT in Blood by Coagulation assay,3173-2,LOINC
+observation,pH of Arterial blood,2744-1,LOINC
+observation,Carbon dioxide [Partial pressure] in Arterial blood,2019-8,LOINC
+observation,Oxygen [Partial pressure] in Arterial blood,2703-7,LOINC
+observation,Bicarbonate [Moles/volume] in Arterial blood,1960-4,LOINC
+observation,Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,89579-7,LOINC
+observation,Thyrotropin [Units/volume] in Serum or Plasma,3016-3,LOINC
+observation,Glucose [Presence] in Urine by Test strip,25428-4,LOINC
+observation,Bilirubin.total [Presence] in Urine by Test strip,5770-3,LOINC
+observation,Ketones [Presence] in Urine by Test strip,2514-8,LOINC
+observation,Specific gravity of Urine by Test strip,5811-5,LOINC
+observation,pH of Urine by Test strip,5803-2,LOINC
+observation,Protein [Presence] in Urine by Test strip,20454-5,LOINC
+observation,Nitrite [Presence] in Urine by Test strip,5802-4,LOINC
+observation,Hemoglobin [Presence] in Urine by Test strip,5794-3,LOINC
+observation,Leukocyte esterase [Presence] in Urine by Test strip,5799-2,LOINC
+observation,Left ventricular Ejection fraction,10230-1,LOINC
+observation,Activated clotting time (ACT) of Blood by Coagulation assay,3184-9,LOINC
+observation,pH of Venous blood,2746-6,LOINC
+observation,Carbon dioxide [Partial pressure] in Venous blood,2021-4,LOINC
+observation,Oxygen [Partial pressure] in Venous blood,2705-2,LOINC
+observation,Bicarbonate [Moles/volume] in Venous blood,14627-4,LOINC
+observation,Carbon dioxide  total [Moles/volume] in Venous blood,2027-1,LOINC
+observation,Procedure Narrative,29554-3,LOINC
+observation,Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay,80382-5,LOINC
+observation,Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay,80383-3,LOINC
+observation,Patient Health Questionnaire 9 item (PHQ-9) total score [Reported],44261-6,LOINC
+observation,Polyp size greatest dimension,33756-8,LOINC
+observation,Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --1st specimen,57905-2,LOINC
+observation,Globulin [Mass/volume] in Serum by calculation,10834-0,LOINC
+observation,What number best describes how pain has interfered with your general activity during the past week,91146-1,LOINC
+observation,What number best describes how pain has interfered with your enjoyment of life during the past week,91145-3,LOINC
+observation,Pain severity in the past week - 0-10 numeric rating [Reported],75893-8,LOINC
+observation,Drugs of abuse 5 panel - Urine by Screen method,65750-2,LOINC
+observation,Hematocrit [Volume Fraction] of Blood,20570-8,LOINC
+observation,Pain severity - Reported,38208-5,LOINC
+observation,DXA Radius and Ulna [T-score] Bone density,38265-5,LOINC
+observation,Fall risk total [Morse Fall Scale],59460-6,LOINC
+observation,Fall risk level [Morse Fall Scale],59461-4,LOINC
+observation,Appearance of Urine,5767-9,LOINC
+observation,Odor of Urine,34533-0,LOINC
+observation,Clarity of Urine,32167-9,LOINC
+observation,Color of Urine,5778-6,LOINC
+observation,Glucose [Mass/volume] in Urine by Test strip,5792-7,LOINC
+observation,Bilirubin.total [Mass/volume] in Urine by Test strip,20505-4,LOINC
+observation,Ketones [Mass/volume] in Urine by Test strip,5797-6,LOINC
+observation,Protein [Mass/volume] in Urine by Test strip,5804-0,LOINC
+observation,Weight difference [Mass difference] --pre dialysis - post dialysis,74006-8,LOINC
+observation,Glucose,2339-0,LOINC
+observation,Urea Nitrogen,6299-2,LOINC
+observation,Creatinine,38483-4,LOINC
+observation,Calcium,49765-1,LOINC
+observation,Sodium,2947-0,LOINC
+observation,Potassium,6298-4,LOINC
+observation,Chloride,2069-3,LOINC
+observation,Carbon Dioxide,20565-8,LOINC
+observation,Glomerular filtration rate/1.73 sq M.predicted,33914-3,LOINC
+observation,Peanut IgE Ab [Units/volume] in Serum,6206-7,LOINC
+observation,Walnut IgE Ab [Units/volume] in Serum,6273-7,LOINC
+observation,Codfish IgE Ab [Units/volume] in Serum,6082-2,LOINC
+observation,Shrimp IgE Ab [Units/volume] in Serum,6246-3,LOINC
+observation,Wheat IgE Ab [Units/volume] in Serum,6276-0,LOINC
+observation,Egg white IgE Ab [Units/volume] in Serum,6106-9,LOINC
+observation,Soybean IgE Ab [Units/volume] in Serum,6248-9,LOINC
+observation,Cow milk IgE Ab [Units/volume] in Serum,7258-7,LOINC
+observation,White oak IgE Ab [Units/volume] in Serum,6189-5,LOINC
+observation,Common Ragweed IgE Ab [Units/volume] in Serum,6085-5,LOINC
+observation,Cat dander IgE Ab [Units/volume] in Serum,6833-8,LOINC
+observation,American house dust mite IgE Ab [Units/volume] in Serum,6095-4,LOINC
+observation,Cladosporium herbarum IgE Ab [Units/volume] in Serum,6075-6,LOINC
+observation,Honey bee IgE Ab [Units/volume] in Serum,6844-5,LOINC
+observation,Latex IgE Ab [Units/volume] in Serum,6158-0,LOINC
+observation,Cause of Death [US Standard Certificate of Death],69453-9,LOINC
+observation,Neutrophils/100 leukocytes in Blood by Automated count,770-8,LOINC
+observation,Lymphocytes/100 leukocytes in Blood by Automated count,736-9,LOINC
+observation,Monocytes/100 leukocytes in Blood by Automated count,5905-5,LOINC
+observation,Eosinophils/100 leukocytes in Blood by Automated count,713-8,LOINC
+observation,Basophils/100 leukocytes in Blood by Automated count,706-2,LOINC
+observation,Neutrophils [#/volume] in Blood by Automated count,751-8,LOINC
+observation,Lymphocytes [#/volume] in Blood by Automated count,731-0,LOINC
+observation,Monocytes [#/volume] in Blood by Automated count,742-7,LOINC
+observation,Eosinophils [#/volume] in Blood by Automated count,711-2,LOINC
+observation,Basophils [#/volume] in Blood by Automated count,704-7,LOINC
+observation,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma,48065-7,LOINC
+observation,Ferritin [Mass/volume] in Serum or Plasma,2276-4,LOINC
+observation,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,14804-9,LOINC
+observation,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,2157-6,LOINC
+observation,C reactive protein [Mass/volume] in Serum or Plasma,1988-5,LOINC
+observation,Procalcitonin [Mass/volume] in Serum or Plasma,33959-8,LOINC
+observation,Symptom,75325-1,LOINC
+observation,NT-proBNP,33762-6,LOINC
+observation,Iron [Mass/volume] in Serum or Plasma,2498-4,LOINC
+observation,Iron binding capacity [Mass/volume] in Serum or Plasma,2500-7,LOINC
+observation,Iron saturation [Mass Fraction] in Serum or Plasma,2502-3,LOINC
+observation,Functional capacity NYHA,88020-3,LOINC
+observation,Objective assessment of cardiovascular disease NYHA,88021-1,LOINC
+observation,Total score [MMSE],72106-8,LOINC
+observation,Physical findings of Prostate,32465-7,LOINC
+observation,Prostate specific Ag [Mass/volume] in Serum or Plasma,2857-1,LOINC
+observation,US Guidance for biopsy of Prostate,46288-7,LOINC
+observation,Oxygen/Total gas setting [Volume Fraction] Ventilator,19994-3,LOINC
+observation,Magnesium [Mass/volume] in Blood,21377-7,LOINC
+observation,Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Blood by Immunoassay,71425-3,LOINC
+observation,Medication management note,70006-2,LOINC
+observation,FEV1/FVC,19926-5,LOINC
+observation,Withdrawal * as manifested by either of the following: a) Characteristic opioid withdrawal syndrome b) Same (or a closely related) substance is taken to relieve or avoid withdrawal symptoms,99999-11,LOINC
+observation,Tolerance as defined by either of the following: a) Need for markedly increased amounts of opioids to achieve intoxication or desired effect b) Markedly diminished effect with continued use of the same amount of opioid,99999-10,LOINC
+observation,Continued use despite knowledge of having a persistent or recurrent physical or psychological problem that is likely to have been caused or exacerbated by opioids.,99999-9,LOINC
+observation,Recurrent opioid use in situations in which it is physically hazardous,99999-8,LOINC
+observation,Important social  occupational  or recreational activities are given up or reduced because of opioid use,99999-7,LOINC
+observation,Continued opioid use despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of opioids,99999-6,LOINC
+observation,Recurrent opioid use resulting in a failure to fulfill major role obligations at work  school  or home,99999-5,LOINC
+observation,Craving or a strong desire to use opioids,99999-4,LOINC
+observation,A great deal of time is spent in activities necessary to obtain the opioid  use the opioid  or recover from its effects,99999-3,LOINC
+observation,There is a persistent desire or unsuccessful efforts to cut down or control opioid use,99999-2,LOINC
+observation,Opioids are often taken in larger amounts or over a longer period than was intended,99999-1,LOINC
+observation,Gram positive blood culture panel by Probe in Positive blood culture,88262-1,LOINC
+observation,Capillary refill [Time] of Nail bed,44963-7,LOINC
+observation,Oxygen saturation Calculated from oxygen partial pressure in Blood,2713-6,LOINC
+observation,Lactate [Moles/volume] in Blood,32693-4,LOINC
+observation,Mean blood pressure,8478-0,LOINC
+observation,Overall summary score [KCCQ-12],86924-8,LOINC
+observation,Mental health Outpatient Note,75443-2,LOINC
+observation,Sexual orientation,76690-7,LOINC
+observation,HIV status,55277-8,LOINC
+observation,Abuse Status [OMAHA],28245-9,LOINC
+observation,Are you covered by health insurance or some other kind of health care plan [PhenX],63513-6,LOINC
+observation,History of Hospitalizations+Outpatient visits Narrative,46240-8,LOINC
+observation,Percentage area affected by eczema Head and Neck [PhenX],66519-0,LOINC
+observation,Percentage area affected by eczema Trunk [PhenX],66529-9,LOINC
+observation,Percentage area affected by eczema Upper extremity - bilateral [PhenX],66524-0,LOINC
+observation,Percentage area affected by eczema Lower extremity - bilateral [PhenX],66534-9,LOINC
+observation,Mental health Telehealth Note,84215-3,LOINC
+observation,Leukocytes [#/volume] in Blood,26464-8,LOINC
+observation,Erythrocytes [#/volume] in Blood,26453-1,LOINC
+observation,Hemoglobin,718-7,LOINC
+observation,Hematocrit,20570-8,LOINC
+observation,MCV,30428-7,LOINC
+observation,RBC Distribution Width,30385-9,LOINC
+observation,Platelet Count,26515-7,LOINC
+observation,Total Bilirubin (Elevated),42719-5,LOINC
+observation,ALT (Elevated),1742-6,LOINC
+observation,AST (Elevated),1920-8,LOINC
+observation,Anion Gap,33037-3,LOINC
+observation,Protein,2885-2,LOINC
+observation,Albumin,1751-7,LOINC
+observation,Globulin,10834-0,LOINC
+observation,Alkaline Phosphatase,6768-6,LOINC
+observation,Physical findings of Abdomen by Palpation,80271-0,LOINC
+observation,Thyroxine (T4) free [Mass/volume] in Serum or Plasma,3024-7,LOINC
+observation,HIV 1 Ab [Presence] in Serum,7917-8,LOINC
+observation,CD3+CD4+ (T4 helper) cells [#/volume] in Blood,24467-3,LOINC
+observation,HIV 1 RNA [#/volume] (viral load) in Serum or Plasma by NAA with probe detection,20447-9,LOINC
+observation,Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy,85343-2,LOINC
+observation,Tumor marker Cancer,21924-6,LOINC
+observation,Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy,85344-0,LOINC
+observation,Toxoplasma gondii Ab [Presence] in Serum,22577-1,LOINC
+observation,Exercise stress test study,18752-6,LOINC
+observation,PROMIS-10 Global Mental Health (GMH) score,71970-8,LOINC
+observation,PROMIS-10 Global Physical Health (GPH) score,71972-4,LOINC
+observation,PROMIS-29 Anxiety score,71968-2,LOINC
+observation,PROMIS-29 Depression score,71966-6,LOINC
+observation,PROMIS-29 Fatigue score,71964-1,LOINC
+observation,PROMIS-29 Pain interference score,71962-5,LOINC
+observation,PROMIS-29 Physical function score,71960-9,LOINC
+observation,PROMIS-29 Satisfaction with participation in social roles score,71958-3,LOINC
+observation,PROMIS-29 Sleep disturbance score,71956-7,LOINC
+observation,Quality of life score [HOOS],72093-8,LOINC
+observation,Sport-recreation score [HOOS],72094-6,LOINC
+observation,Activities of daily living score [HOOS],72095-3,LOINC
+observation,Pain score [HOOS],72097-9,LOINC
+observation,Symptoms score [HOOS],72096-1,LOINC
+observation,Interleukin 6 [Mass/volume] in Serum or Plasma,26881-3,LOINC
+observation,Quality of life score [KOOS],72098-7,LOINC
+observation,Sport-recreation score [KOOS],72099-5,LOINC
+observation,Activities of daily living score [KOOS],72100-1,LOINC
+observation,Pain score [KOOS],72102-7,LOINC
+observation,Symptoms score [KOOS],72101-9,LOINC
+observation,VR-12 Physical functioning (PF) score - oblique method,72016-9,LOINC
+observation,VR-12 Role physical (RP) score - oblique method,72015-1,LOINC
+observation,VR-12 Bodily pain (BP) score - oblique method,72014-4,LOINC
+observation,VR-12 General health (GH) score - oblique method,72013-6,LOINC
+observation,VR-12 Vitality (VT) score - oblique method,72012-8,LOINC
+observation,VR-12 Social functioning (SF) score - oblique method,72011-0,LOINC
+observation,VR-12 Role emotion (RE) score - oblique method,72010-2,LOINC
+observation,VR-12 Mental health (MH) score - oblique method,72009-4,LOINC
