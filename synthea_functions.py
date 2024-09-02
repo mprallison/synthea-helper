@@ -193,10 +193,9 @@ def filter_cohort_data(cohort, case_patients, patient_df, allergy_df, careplan_d
 def join_synthea_tables(allergy_df, careplan_df, conditions_df, device_df, encounter_df, imaging_study_df, immunization_df, medication_df, observation_df, procedure_df):
 
     """join all synthea record tables as single dataframe
-    return 
-
-    drop duplicate records to reduce volume
-    therefore removing longitudional insight and inferring that all records take place in present day
+    
+    drop duplicate patient records to reduce volume
+    so removing longitudional insight and inferring that all records take place in present day
     insert class (source table) and system fields
 
     note observation uses description to describe measure rather than finding
