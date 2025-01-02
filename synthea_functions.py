@@ -96,7 +96,7 @@ def generate_cohort_sample(case_N, control_N, case_patients, patient_df):
 
     return cohort
 
-def filter_cohort_data(cohort, case_patients, patient_df, allergy_df, careplan_df, conditions_df, device_df, encounter_df, imaging_study_df,\
+def filter_cohort_data(cohort, case_patients, patient_df, allergy_df, careplan_df, conditions_df, device_df, encounter_df, imaging_study_df, \
     immunization_df, medication_df, observation_df, procedure_df):
 
     """filter synthea files by sample membership
